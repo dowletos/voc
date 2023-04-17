@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"allegation" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:634;
+item="word" /LANG:"english" /TEXT:"bogus" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:913;
+item="word" /LANG:"english" /TEXT:"cripple" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2215;
+item="word" /LANG:"english" /TEXT:"dubious" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1485;
+item="word" /LANG:"english" /TEXT:"impact" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:180;
+item="word" /LANG:"english" /TEXT:"log" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:731;
+item="word" /LANG:"english" /TEXT:"phoney" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:736;
+item="word" /LANG:"english" /TEXT:"refusal" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:516;
+item="word" /LANG:"english" /TEXT:"seize" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:589;
+item="word" /LANG:"english" /TEXT:"thrifty" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:574;
+item="word" /LANG:"english" /TEXT:"violate" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:281;
+item="word" /LANG:"russian" /TEXT:"уд{а'}р" /DICT:"HCP_RUS-ENG_001" /CHAR:20 /HEAD:192;
+
+[END]

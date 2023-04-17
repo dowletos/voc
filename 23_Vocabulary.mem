@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"apprentice" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1072;
+item="word" /LANG:"english" /TEXT:"catch" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:387;
+item="word" /LANG:"english" /TEXT:"courage" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2029;
+item="word" /LANG:"english" /TEXT:"pliers" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1025;
+item="word" /LANG:"english" /TEXT:"pole" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1127;
+item="word" /LANG:"english" /TEXT:"reprimand" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:752;
+item="word" /LANG:"english" /TEXT:"sawmill" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:235;
+item="word" /LANG:"english" /TEXT:"spin" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2032;
+item="word" /LANG:"english" /TEXT:"tease" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:224;
+item="word" /LANG:"english" /TEXT:"unmerciful" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:403;
+item="word" /LANG:"english" /TEXT:"whirr" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:407;
+item="word" /LANG:"russian" /TEXT:"догн{а'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:5 /HEAD:683;
+
+[END]

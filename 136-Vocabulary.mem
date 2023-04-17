@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"bullet" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1394;
+item="word" /LANG:"english" /TEXT:"defeat" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:300;
+item="word" /LANG:"english" /TEXT:"legacy" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:321;
+item="word" /LANG:"english" /TEXT:"linkup" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:582;
+item="word" /LANG:"english" /TEXT:"merit" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:593;
+item="word" /LANG:"english" /TEXT:"persuade" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:640;
+item="word" /LANG:"english" /TEXT:"point" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1102;
+item="word" /LANG:"english" /TEXT:"straight" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2565;
+item="word" /LANG:"english" /TEXT:"turning point" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1342;
+item="word" /LANG:"english" /TEXT:"typo" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1425;
+item="word" /LANG:"russian" /TEXT:"дост{о'}инство" /DICT:"HCP_RUS-ENG_001" /CHAR:5 /HEAD:914;
+item="word" /LANG:"russian" /TEXT:"пр{я'}мо" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:4710;
+item="word" /LANG:"russian" /TEXT:"ср{а'}зу" /DICT:"HCP_RUS-ENG_001" /CHAR:18 /HEAD:2259;
+item="word" /LANG:"russian" /TEXT:"ук{а'}зывать" /DICT:"HCP_RUS-ENG_001" /CHAR:20 /HEAD:332;
+
+[END]

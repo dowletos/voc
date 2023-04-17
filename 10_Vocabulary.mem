@@ -1,0 +1,20 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"advance" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:364;
+item="word" /LANG:"english" /TEXT:"commitment" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1309;
+item="word" /LANG:"english" /TEXT:"consumption" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1687;
+item="word" /LANG:"english" /TEXT:"deception" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:228;
+item="word" /LANG:"english" /TEXT:"deceptive" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:229;
+item="word" /LANG:"english" /TEXT:"discontent" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:875;
+item="word" /LANG:"english" /TEXT:"durable" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1534;
+item="word" /LANG:"english" /TEXT:"explicit" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:932;
+item="word" /LANG:"english" /TEXT:"expound" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:953;
+item="word" /LANG:"english" /TEXT:"forge" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:872;
+item="word" /LANG:"english" /TEXT:"notably" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:484;
+item="word" /LANG:"english" /TEXT:"pacify" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:15;
+item="word" /LANG:"english" /TEXT:"praise" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1406;
+item="word" /LANG:"english" /TEXT:"redefine" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:425;
+item="word" /LANG:"english" /TEXT:"redemption" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:426;
+item="word" /LANG:"english" /TEXT:"spurious" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2164;
+
+[END]

@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"albeit" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:598;
+item="word" /LANG:"english" /TEXT:"chasm" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:630;
+item="word" /LANG:"english" /TEXT:"collaboration" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1189;
+item="word" /LANG:"english" /TEXT:"destroy" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:591;
+item="word" /LANG:"english" /TEXT:"destructive" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:594;
+item="word" /LANG:"english" /TEXT:"dyke" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1576;
+item="word" /LANG:"english" /TEXT:"handicraft" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:122;
+item="word" /LANG:"english" /TEXT:"marginal" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:245;
+item="word" /LANG:"english" /TEXT:"paradox" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:177;
+item="word" /LANG:"english" /TEXT:"reconstruction" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:375;
+item="word" /LANG:"english" /TEXT:"seashore" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:485;
+item="word" /LANG:"english" /TEXT:"seaside resort" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:489;
+item="word" /LANG:"russian" /TEXT:"куст{а'}рный" /DICT:"HCP_RUS-ENG_001" /CHAR:11 /HEAD:2080;
+
+[END]

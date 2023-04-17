@@ -1,0 +1,22 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"accused" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:185;
+item="word" /LANG:"english" /TEXT:"admiration" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:324;
+item="word" /LANG:"english" /TEXT:"ambiguity" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:734;
+item="word" /LANG:"english" /TEXT:"ambush" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:743;
+item="word" /LANG:"english" /TEXT:"beforehand" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:431;
+item="word" /LANG:"english" /TEXT:"condolences" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1505;
+item="word" /LANG:"english" /TEXT:"desperate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:576;
+item="word" /LANG:"english" /TEXT:"earnest" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:23;
+item="word" /LANG:"english" /TEXT:"encouragement" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:391;
+item="word" /LANG:"english" /TEXT:"fitting" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:522;
+item="word" /LANG:"english" /TEXT:"heartfelt" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:366;
+item="word" /LANG:"english" /TEXT:"highness" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:569;
+item="word" /LANG:"english" /TEXT:"persevere" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:605;
+item="word" /LANG:"english" /TEXT:"reliant" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:612;
+item="word" /LANG:"english" /TEXT:"spur" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2163;
+item="word" /LANG:"english" /TEXT:"tempt" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:326;
+item="word" /LANG:"english" /TEXT:"temptation" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:327;
+item="word" /LANG:"english" /TEXT:"tight" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:655;
+
+[END]

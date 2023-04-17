@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"blatantly" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:735;
+item="word" /LANG:"english" /TEXT:"bloodshot" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:810;
+item="word" /LANG:"english" /TEXT:"debris" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:196;
+item="word" /LANG:"english" /TEXT:"inhuman" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:651;
+item="word" /LANG:"english" /TEXT:"inject" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:662;
+item="word" /LANG:"english" /TEXT:"injection" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:663;
+item="word" /LANG:"english" /TEXT:"merit" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:593;
+item="word" /LANG:"english" /TEXT:"prone" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1815;
+item="word" /LANG:"english" /TEXT:"stipulate" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2478;
+item="word" /LANG:"english" /TEXT:"torture" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:880;
+
+[END]

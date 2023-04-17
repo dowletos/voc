@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"emergence" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:313;
+item="word" /LANG:"english" /TEXT:"radical" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:49;
+item="word" /LANG:"english" /TEXT:"resolute" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:832;
+item="word" /LANG:"english" /TEXT:"rifle" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1058;
+item="word" /LANG:"english" /TEXT:"strengthen" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2618;
+item="word" /LANG:"english" /TEXT:"traverse" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1096;
+item="word" /LANG:"english" /TEXT:"unprecedented" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:432;
+item="word" /LANG:"english" /TEXT:"vigorous" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:259;
+item="word" /LANG:"english" /TEXT:"vivid" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:348;
+item="word" /LANG:"english" /TEXT:"vow" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:404;
+item="word" /LANG:"russian" /TEXT:"возникнов{е'}ние" /DICT:"HCP_RUS-ENG_001" /CHAR:3 /HEAD:901;
+
+[END]

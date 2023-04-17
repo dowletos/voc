@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"blueprint" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:849;
+item="word" /LANG:"english" /TEXT:"breathtaking" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1183;
+item="word" /LANG:"english" /TEXT:"discard" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:850;
+item="word" /LANG:"english" /TEXT:"dislocate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:953;
+item="word" /LANG:"english" /TEXT:"fate" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:181;
+item="word" /LANG:"english" /TEXT:"rib" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1030;
+item="word" /LANG:"english" /TEXT:"splutter" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2082;
+item="word" /LANG:"english" /TEXT:"spring" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2140;
+item="word" /LANG:"english" /TEXT:"spurt" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2166;
+item="word" /LANG:"english" /TEXT:"strike" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2636;
+item="word" /LANG:"english" /TEXT:"stump" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2704;
+item="word" /LANG:"english" /TEXT:"venture" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:143;
+item="word" /LANG:"english" /TEXT:"wrist" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:774;
+item="word" /LANG:"russian" /TEXT:"головокруж{и'}тельный" /DICT:"HCP_RUS-ENG_001" /CHAR:4 /HEAD:397;
+
+[END]

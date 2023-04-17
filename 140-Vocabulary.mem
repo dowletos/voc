@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"ascend" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1258;
+item="word" /LANG:"english" /TEXT:"ascendant" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1260;
+item="word" /LANG:"english" /TEXT:"benevolent" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:504;
+item="word" /LANG:"english" /TEXT:"emperor" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:343;
+item="word" /LANG:"english" /TEXT:"empress" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:359;
+item="word" /LANG:"english" /TEXT:"extent" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:974;
+item="word" /LANG:"english" /TEXT:"harmony" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:226;
+item="word" /LANG:"english" /TEXT:"loyalty" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:869;
+item="word" /LANG:"english" /TEXT:"preserve" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1541;
+item="word" /LANG:"russian" /TEXT:"ст{е'}пень" /DICT:"HCP_RUS-ENG_001" /CHAR:18 /HEAD:2522;
+
+[END]

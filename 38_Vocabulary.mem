@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"bottleneck" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1033;
+item="word" /LANG:"english" /TEXT:"embarrass" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:286;
+item="word" /LANG:"english" /TEXT:"embrace" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:305;
+item="word" /LANG:"english" /TEXT:"hum" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:941;
+item="word" /LANG:"english" /TEXT:"nausea" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:116;
+item="word" /LANG:"english" /TEXT:"nauseous" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:119;
+item="word" /LANG:"english" /TEXT:"odd" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:113;
+item="word" /LANG:"english" /TEXT:"odd-job man" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:116;
+item="word" /LANG:"english" /TEXT:"odd jobs" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:117;
+item="word" /LANG:"english" /TEXT:"pitfall" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:894;
+item="word" /LANG:"english" /TEXT:"tin" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:701;
+item="word" /LANG:"english" /TEXT:"tinfoil" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:702;
+item="word" /LANG:"english" /TEXT:"tinker" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:705;
+
+[END]

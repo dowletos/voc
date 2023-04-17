@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"apparel" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1024;
+item="word" /LANG:"english" /TEXT:"apparently" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1026;
+item="word" /LANG:"english" /TEXT:"congestion" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1562;
+item="word" /LANG:"english" /TEXT:"countermeasure" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2002;
+item="word" /LANG:"english" /TEXT:"distribution" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1065;
+item="word" /LANG:"english" /TEXT:"eradicate" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:602;
+item="word" /LANG:"english" /TEXT:"initiative" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:661;
+item="word" /LANG:"english" /TEXT:"lead time" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:259;
+item="word" /LANG:"english" /TEXT:"nourishing" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:511;
+item="word" /LANG:"english" /TEXT:"nourishment" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:512;
+
+[END]

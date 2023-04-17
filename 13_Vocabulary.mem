@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"changeover" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:586;
+item="word" /LANG:"english" /TEXT:"creep" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2175;
+item="word" /LANG:"english" /TEXT:"over" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:551;
+item="word" /LANG:"english" /TEXT:"pile" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:819;
+item="word" /LANG:"english" /TEXT:"trivial" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1191;
+item="word" /LANG:"english" /TEXT:"triviality" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1192;
+item="word" /LANG:"english" /TEXT:"trivialize" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1193;
+item="word" /LANG:"english" /TEXT:"troublesome" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1213;
+item="word" /LANG:"english" /TEXT:"unwavering" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:548;
+item="word" /LANG:"english" /TEXT:"unwelcome" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:549;
+item="word" /LANG:"english" /TEXT:"yell" /DICT:"HCP_ENG-RUS_001" /CHAR:25 /HEAD:25;
+
+[END]

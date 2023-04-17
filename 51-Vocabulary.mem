@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"cohesive" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1162;
+item="word" /LANG:"english" /TEXT:"endorse" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:407;
+item="word" /LANG:"english" /TEXT:"endorsement" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:409;
+item="word" /LANG:"english" /TEXT:"facilitate" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:27;
+item="word" /LANG:"english" /TEXT:"fashionable" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:166;
+item="word" /LANG:"english" /TEXT:"feasibility" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:221;
+item="word" /LANG:"english" /TEXT:"feasible" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:223;
+item="word" /LANG:"english" /TEXT:"garment" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:100;
+item="word" /LANG:"english" /TEXT:"implication" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:225;
+item="word" /LANG:"english" /TEXT:"myopic" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:1419;
+item="word" /LANG:"english" /TEXT:"trim" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1168;
+item="word" /LANG:"english" /TEXT:"underlie" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:179;
+
+[END]

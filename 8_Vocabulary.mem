@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"cohesive" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1162;
+item="word" /LANG:"english" /TEXT:"deliberately" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:375;
+item="word" /LANG:"english" /TEXT:"depreciate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:503;
+item="word" /LANG:"english" /TEXT:"embroil" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:308;
+item="word" /LANG:"english" /TEXT:"explore" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:938;
+item="word" /LANG:"english" /TEXT:"extinction" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:982;
+item="word" /LANG:"english" /TEXT:"humiliate" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:959;
+item="word" /LANG:"english" /TEXT:"prostrate" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1874;
+item="word" /LANG:"english" /TEXT:"spacious" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1907;
+item="word" /LANG:"english" /TEXT:"vigour" /TEXT:"vigor" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:260;
+item="word" /LANG:"english" /TEXT:"worse off" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:725;
+
+[END]

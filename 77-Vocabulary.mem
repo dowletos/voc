@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"allegation" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:634;
+item="word" /LANG:"english" /TEXT:"alone" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:677;
+item="word" /LANG:"english" /TEXT:"assemble" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1311;
+item="word" /LANG:"english" /TEXT:"contemplation" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1700;
+item="word" /LANG:"english" /TEXT:"entail" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:490;
+item="word" /LANG:"english" /TEXT:"oversee" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:615;
+item="word" /LANG:"english" /TEXT:"press" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1547;
+item="word" /LANG:"english" /TEXT:"spendthrift" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2011;
+item="word" /LANG:"english" /TEXT:"sworn" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3176;
+item="word" /LANG:"english" /TEXT:"thrift" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:573;
+item="word" /LANG:"english" /TEXT:"virtue" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:301;
+item="word" /LANG:"russian" /TEXT:"печ{а'}тный" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:866;
+
+[END]

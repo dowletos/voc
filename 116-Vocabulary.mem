@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"affiliated" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:426;
+item="word" /LANG:"english" /TEXT:"assault" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1310;
+item="word" /LANG:"english" /TEXT:"deprive" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:511;
+item="word" /LANG:"english" /TEXT:"deprived" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:512;
+item="word" /LANG:"english" /TEXT:"diminish" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:754;
+item="word" /LANG:"english" /TEXT:"encroach" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:393;
+item="word" /LANG:"english" /TEXT:"ground" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:722;
+item="word" /LANG:"english" /TEXT:"infringe" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:622;
+item="word" /LANG:"english" /TEXT:"infringement" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:623;
+item="word" /LANG:"english" /TEXT:"inviolate" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1034;
+item="word" /LANG:"english" /TEXT:"secrecy" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:530;
+
+[END]

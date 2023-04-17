@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"depot" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:498;
+item="word" /LANG:"english" /TEXT:"deteriorate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:613;
+item="word" /LANG:"english" /TEXT:"emotional" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:339;
+item="word" /LANG:"english" /TEXT:"gainsay" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:27;
+item="word" /LANG:"english" /TEXT:"hindsight" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:606;
+item="word" /LANG:"english" /TEXT:"ludicrous" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:890;
+item="word" /LANG:"english" /TEXT:"proximity" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1924;
+item="word" /LANG:"english" /TEXT:"reliable" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:609;
+item="word" /LANG:"english" /TEXT:"trial" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1139;
+item="word" /LANG:"english" /TEXT:"trial basis" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1141;
+
+[END]

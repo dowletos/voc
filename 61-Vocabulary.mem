@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"attain" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1411;
+item="word" /LANG:"english" /TEXT:"conjecture" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1576;
+item="word" /LANG:"english" /TEXT:"dishcloth" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:924;
+item="word" /LANG:"english" /TEXT:"dishearten" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:925;
+item="word" /LANG:"english" /TEXT:"dishonest" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:927;
+item="word" /LANG:"english" /TEXT:"disillusionment" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:936;
+item="word" /LANG:"english" /TEXT:"disinclined" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:938;
+item="word" /LANG:"english" /TEXT:"disinterested" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:946;
+item="word" /LANG:"english" /TEXT:"handkerchief" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:124;
+item="word" /LANG:"english" /TEXT:"incline" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:354;
+item="word" /LANG:"english" /TEXT:"paragon" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:183;
+item="word" /LANG:"english" /TEXT:"sample" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:119;
+
+[END]

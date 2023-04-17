@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"affirm" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:428;
+item="word" /LANG:"english" /TEXT:"affirmative" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:430;
+item="word" /LANG:"english" /TEXT:"bias" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:565;
+item="word" /LANG:"english" /TEXT:"cutoff" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2461;
+item="word" /LANG:"english" /TEXT:"cutoff switch" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2462;
+item="word" /LANG:"english" /TEXT:"gain" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:24;
+item="word" /LANG:"english" /TEXT:"gainful" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:25;
+item="word" /LANG:"english" /TEXT:"geek" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:173;
+item="word" /LANG:"english" /TEXT:"hesitate" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:504;
+item="word" /LANG:"english" /TEXT:"hesitation" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:505;
+item="word" /LANG:"english" /TEXT:"imposition" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:241;
+
+[END]

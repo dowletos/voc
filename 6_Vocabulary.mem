@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"claimant" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:909;
+item="word" /LANG:"english" /TEXT:"diminish" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:754;
+item="word" /LANG:"english" /TEXT:"embroil" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:308;
+item="word" /LANG:"english" /TEXT:"flatter" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:587;
+item="word" /LANG:"english" /TEXT:"greedy" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:647;
+item="word" /LANG:"english" /TEXT:"handicap" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:121;
+item="word" /LANG:"english" /TEXT:"hatred" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:261;
+item="word" /LANG:"english" /TEXT:"implacable" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:220;
+item="word" /LANG:"english" /TEXT:"precisely" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1439;
+item="word" /LANG:"english" /TEXT:"prolong" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1793;
+item="word" /LANG:"english" /TEXT:"quarrel" /DICT:"HCP_ENG-RUS_001" /CHAR:17 /HEAD:39;
+item="word" /LANG:"english" /TEXT:"rival" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1134;
+item="word" /LANG:"english" /TEXT:"scarcely" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:276;
+item="word" /LANG:"english" /TEXT:"vantage point" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:64;
+
+[END]

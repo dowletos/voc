@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"adverse" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:378;
+item="word" /LANG:"english" /TEXT:"advocate" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:395;
+item="word" /LANG:"english" /TEXT:"cripple" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2215;
+item="word" /LANG:"english" /TEXT:"down payment" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1293;
+item="word" /LANG:"english" /TEXT:"hamper" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:105;
+item="word" /LANG:"english" /TEXT:"leverage" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:420;
+item="word" /LANG:"english" /TEXT:"malfunction" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:133;
+item="word" /LANG:"english" /TEXT:"redeem" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:422;
+item="word" /LANG:"english" /TEXT:"repercussions" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:717;
+item="word" /LANG:"english" /TEXT:"suit" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2870;
+
+[END]

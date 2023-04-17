@@ -1,0 +1,20 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"appal" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1020;
+item="word" /LANG:"english" /TEXT:"bluntly" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:853;
+item="word" /LANG:"english" /TEXT:"bluntness" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:854;
+item="word" /LANG:"english" /TEXT:"breadth" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1150;
+item="word" /LANG:"english" /TEXT:"casting vote" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:364;
+item="word" /LANG:"english" /TEXT:"eccentric" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:70;
+item="word" /LANG:"english" /TEXT:"escapade" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:632;
+item="word" /LANG:"english" /TEXT:"jolly" /DICT:"HCP_ENG-RUS_001" /CHAR:10 /HEAD:148;
+item="word" /LANG:"english" /TEXT:"munitions" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:1354;
+item="word" /LANG:"english" /TEXT:"plaster" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:953;
+item="word" /LANG:"english" /TEXT:"plasterer" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:957;
+item="word" /LANG:"english" /TEXT:"prank" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1410;
+item="word" /LANG:"english" /TEXT:"propriety" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1853;
+item="word" /LANG:"english" /TEXT:"sober" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1684;
+item="word" /LANG:"english" /TEXT:"speechless" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1990;
+item="word" /LANG:"english" /TEXT:"stump" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2704;
+
+[END]

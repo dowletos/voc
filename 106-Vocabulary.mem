@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"deteriorate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:613;
+item="word" /LANG:"english" /TEXT:"deterioration" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:614;
+item="word" /LANG:"english" /TEXT:"entitled" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:514;
+item="word" /LANG:"english" /TEXT:"lure" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:925;
+item="word" /LANG:"english" /TEXT:"outskirts" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:528;
+item="word" /LANG:"english" /TEXT:"pressure cooker" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1559;
+item="word" /LANG:"english" /TEXT:"push-up" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:2101;
+item="word" /LANG:"english" /TEXT:"remedy" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:642;
+item="word" /LANG:"english" /TEXT:"setback" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:775;
+item="word" /LANG:"english" /TEXT:"vendor" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:123;
+
+[END]

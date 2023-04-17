@@ -1,0 +1,21 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"appeal" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1028;
+item="word" /LANG:"english" /TEXT:"appealing" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1029;
+item="word" /LANG:"english" /TEXT:"benevolent" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:504;
+item="word" /LANG:"english" /TEXT:"clause" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:947;
+item="word" /LANG:"english" /TEXT:"commute" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1351;
+item="word" /LANG:"english" /TEXT:"commuter" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1352;
+item="word" /LANG:"english" /TEXT:"compromise" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1432;
+item="word" /LANG:"english" /TEXT:"compulsion" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1433;
+item="word" /LANG:"english" /TEXT:"consideration" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1623;
+item="word" /LANG:"english" /TEXT:"dizzy" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1117;
+item="word" /LANG:"english" /TEXT:"engaging" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:438;
+item="word" /LANG:"english" /TEXT:"ignorance" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:88;
+item="word" /LANG:"english" /TEXT:"ignorant" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:89;
+item="word" /LANG:"english" /TEXT:"intense" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:856;
+item="word" /LANG:"english" /TEXT:"intensify" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:858;
+item="word" /LANG:"english" /TEXT:"justify" /DICT:"HCP_ENG-RUS_001" /CHAR:10 /HEAD:242;
+item="word" /LANG:"english" /TEXT:"loyalty" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:869;
+
+[END]

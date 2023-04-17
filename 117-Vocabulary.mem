@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"aggravate" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:485;
+item="word" /LANG:"english" /TEXT:"breadwinner" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1151;
+item="word" /LANG:"english" /TEXT:"dignity" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:737;
+item="word" /LANG:"english" /TEXT:"honour" /TEXT:"honor" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:760;
+item="word" /LANG:"english" /TEXT:"preside" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1543;
+item="word" /LANG:"english" /TEXT:"presidency" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1544;
+item="word" /LANG:"english" /TEXT:"recreation" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:393;
+item="word" /LANG:"english" /TEXT:"redress" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:448;
+item="word" /LANG:"english" /TEXT:"reimburse" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:571;
+item="word" /LANG:"english" /TEXT:"reside" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:817;
+
+[END]

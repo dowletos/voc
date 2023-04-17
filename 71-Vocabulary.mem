@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"ajar" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:578;
+item="word" /LANG:"english" /TEXT:"bedevil" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:397;
+item="word" /LANG:"english" /TEXT:"blueprint" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:849;
+item="word" /LANG:"english" /TEXT:"chagrin" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:551;
+item="word" /LANG:"english" /TEXT:"challenge" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:564;
+item="word" /LANG:"english" /TEXT:"fulfilment" /TEXT:"fulfillment" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:1190;
+item="word" /LANG:"english" /TEXT:"mop" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:1125;
+item="word" /LANG:"english" /TEXT:"mundane" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:1350;
+item="word" /LANG:"english" /TEXT:"phase" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:706;
+item="word" /LANG:"english" /TEXT:"sitting room" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1302;
+
+[END]

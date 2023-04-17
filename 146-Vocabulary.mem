@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"ban" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:143;
+item="word" /LANG:"english" /TEXT:"coexistence" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1141;
+item="word" /LANG:"english" /TEXT:"empower" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:358;
+item="word" /LANG:"english" /TEXT:"evidence" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:768;
+item="word" /LANG:"english" /TEXT:"expedition" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:908;
+item="word" /LANG:"english" /TEXT:"legendary" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:332;
+item="word" /LANG:"english" /TEXT:"predecessor" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1450;
+item="word" /LANG:"english" /TEXT:"rebel" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:302;
+item="word" /LANG:"english" /TEXT:"rebellion" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:303;
+item="word" /LANG:"english" /TEXT:"semicolon" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:675;
+item="word" /LANG:"english" /TEXT:"unify" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:330;
+
+[END]

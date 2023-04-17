@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"coexistence" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1141;
+item="word" /LANG:"english" /TEXT:"deity" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:361;
+item="word" /LANG:"english" /TEXT:"native" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:90;
+item="word" /LANG:"english" /TEXT:"ought" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:457;
+item="word" /LANG:"english" /TEXT:"religious" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:620;
+item="word" /LANG:"english" /TEXT:"revere" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:964;
+item="word" /LANG:"english" /TEXT:"ritual" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1133;
+item="word" /LANG:"english" /TEXT:"shrine" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1096;
+item="word" /LANG:"english" /TEXT:"spiritual" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2057;
+item="word" /LANG:"english" /TEXT:"worship" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:726;
+
+[END]

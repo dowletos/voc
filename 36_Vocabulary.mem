@@ -1,0 +1,20 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"allot" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:656;
+item="word" /LANG:"english" /TEXT:"attest" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1422;
+item="word" /LANG:"english" /TEXT:"censure" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:490;
+item="word" /LANG:"english" /TEXT:"crucial" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2292;
+item="word" /LANG:"english" /TEXT:"determine" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:616;
+item="word" /LANG:"english" /TEXT:"embarrass" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:286;
+item="word" /LANG:"english" /TEXT:"enact" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:372;
+item="word" /LANG:"english" /TEXT:"obstruct" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:69;
+item="word" /LANG:"english" /TEXT:"obstruction" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:70;
+item="word" /LANG:"english" /TEXT:"onerous" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:262;
+item="word" /LANG:"english" /TEXT:"popular" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1224;
+item="word" /LANG:"english" /TEXT:"preside" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1543;
+item="word" /LANG:"english" /TEXT:"presidency" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1544;
+item="word" /LANG:"english" /TEXT:"promulgate" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1814;
+item="word" /LANG:"english" /TEXT:"retention" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:911;
+item="word" /LANG:"english" /TEXT:"ultimately" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:32;
+
+[END]

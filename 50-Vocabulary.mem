@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"postponement" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1312;
+item="word" /LANG:"english" /TEXT:"realign" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:262;
+item="word" /LANG:"english" /TEXT:"resilience" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:826;
+item="word" /LANG:"english" /TEXT:"signify" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1190;
+item="word" /LANG:"english" /TEXT:"step" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2409;
+item="word" /LANG:"english" /TEXT:"stink" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2472;
+item="word" /LANG:"english" /TEXT:"stinking" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2474;
+item="word" /LANG:"english" /TEXT:"stylish" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2728;
+item="word" /LANG:"english" /TEXT:"tenant" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:334;
+item="word" /LANG:"english" /TEXT:"unpredictable" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:433;
+
+[END]

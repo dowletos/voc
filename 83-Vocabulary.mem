@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"assembly" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1312;
+item="word" /LANG:"english" /TEXT:"code" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1130;
+item="word" /LANG:"english" /TEXT:"colourful" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1233;
+item="word" /LANG:"english" /TEXT:"conscription" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1606;
+item="word" /LANG:"english" /TEXT:"expel" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:911;
+item="word" /LANG:"english" /TEXT:"great" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:632;
+item="word" /LANG:"english" /TEXT:"immense" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:156;
+item="word" /LANG:"english" /TEXT:"inapplicable" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:302;
+item="word" /LANG:"english" /TEXT:"initial" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:656;
+item="word" /LANG:"english" /TEXT:"join" /DICT:"HCP_ENG-RUS_001" /CHAR:10 /HEAD:131;
+
+[END]

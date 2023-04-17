@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"abandon" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:13;
+item="word" /LANG:"english" /TEXT:"abandoned" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:14;
+item="word" /LANG:"english" /TEXT:"abruptly" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:73;
+item="word" /LANG:"english" /TEXT:"adventure" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:372;
+item="word" /LANG:"english" /TEXT:"bulky" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1389;
+item="word" /LANG:"english" /TEXT:"chagrin" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:551;
+item="word" /LANG:"english" /TEXT:"contentious" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1711;
+item="word" /LANG:"english" /TEXT:"decipher" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:240;
+item="word" /LANG:"english" /TEXT:"dissect" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1022;
+item="word" /LANG:"english" /TEXT:"druggist" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1449;
+item="word" /LANG:"english" /TEXT:"evolution" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:774;
+
+[END]

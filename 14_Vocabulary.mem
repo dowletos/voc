@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"complain" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1391;
+item="word" /LANG:"english" /TEXT:"complaint" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1392;
+item="word" /LANG:"english" /TEXT:"encounter" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:389;
+item="word" /LANG:"english" /TEXT:"hermit" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:488;
+item="word" /LANG:"english" /TEXT:"pawnshop" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:375;
+item="word" /LANG:"english" /TEXT:"pivot" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:906;
+item="word" /LANG:"english" /TEXT:"roast" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1166;
+item="word" /LANG:"english" /TEXT:"rumour" /TEXT:"rumor" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1381;
+item="word" /LANG:"english" /TEXT:"till" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:667;
+item="word" /LANG:"english" /TEXT:"weed" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:263;
+
+[END]

@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"acquire" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:217;
+item="word" /LANG:"english" /TEXT:"embarrassment" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:289;
+item="word" /LANG:"english" /TEXT:"fraught" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:1003;
+item="word" /LANG:"english" /TEXT:"frustrating" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:1168;
+item="word" /LANG:"english" /TEXT:"guesstimate" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:783;
+item="word" /LANG:"english" /TEXT:"infer" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:562;
+item="word" /LANG:"english" /TEXT:"precision" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1440;
+item="word" /LANG:"english" /TEXT:"presumably" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1567;
+item="word" /LANG:"english" /TEXT:"quit" /DICT:"HCP_ENG-RUS_001" /CHAR:17 /HEAD:106;
+item="word" /LANG:"english" /TEXT:"tag" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:38;
+
+[END]

@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"apt" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1099;
+item="word" /LANG:"english" /TEXT:"aptitude" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1101;
+item="word" /LANG:"english" /TEXT:"cause" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:419;
+item="word" /LANG:"english" /TEXT:"flaw" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:595;
+item="word" /LANG:"english" /TEXT:"flawless" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:596;
+item="word" /LANG:"english" /TEXT:"inventory" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1011;
+item="word" /LANG:"english" /TEXT:"lay-off" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:229;
+item="word" /LANG:"english" /TEXT:"loom" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:788;
+item="word" /LANG:"english" /TEXT:"offspring" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:178;
+item="word" /LANG:"english" /TEXT:"pay" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:376;
+item="word" /LANG:"english" /TEXT:"pay award" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:378;
+item="word" /LANG:"english" /TEXT:"rumour" /TEXT:"rumor" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1381;
+item="word" /LANG:"english" /TEXT:"shipment" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:962;
+item="word" /LANG:"russian" /TEXT:"отгр{у'}зка" /DICT:"HCP_RUS-ENG_001" /CHAR:15 /HEAD:1563;
+
+[END]

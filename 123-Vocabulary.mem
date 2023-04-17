@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"feature" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:228;
+item="word" /LANG:"english" /TEXT:"hail" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:30;
+item="word" /LANG:"english" /TEXT:"hailstone" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:31;
+item="word" /LANG:"english" /TEXT:"hailstorm" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:32;
+item="word" /LANG:"english" /TEXT:"nuptial" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:570;
+item="word" /LANG:"english" /TEXT:"parenthood" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:222;
+item="word" /LANG:"english" /TEXT:"parenting" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:223;
+item="word" /LANG:"english" /TEXT:"perform" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:549;
+item="word" /LANG:"english" /TEXT:"seedless" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:571;
+item="word" /LANG:"english" /TEXT:"waive" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:33;
+
+[END]

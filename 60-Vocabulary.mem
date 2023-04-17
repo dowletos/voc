@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"modesty" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:1002;
+item="word" /LANG:"english" /TEXT:"profess" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1737;
+item="word" /LANG:"english" /TEXT:"provoke" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1918;
+item="word" /LANG:"english" /TEXT:"scale" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:251;
+item="word" /LANG:"english" /TEXT:"share" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:865;
+item="word" /LANG:"english" /TEXT:"show-off" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1079;
+item="word" /LANG:"english" /TEXT:"trained" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1010;
+item="word" /LANG:"english" /TEXT:"unforgivable" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:298;
+item="word" /LANG:"english" /TEXT:"useless" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:643;
+item="word" /LANG:"english" /TEXT:"virtue" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:301;
+item="word" /LANG:"english" /TEXT:"witty" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:618;
+
+[END]

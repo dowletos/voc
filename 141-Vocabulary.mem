@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"cultivate" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2370;
+item="word" /LANG:"english" /TEXT:"devotion" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:655;
+item="word" /LANG:"english" /TEXT:"distinctive" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1050;
+item="word" /LANG:"english" /TEXT:"elaborate" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:184;
+item="word" /LANG:"english" /TEXT:"honor" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:758;
+item="word" /LANG:"english" /TEXT:"mention" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:567;
+item="word" /LANG:"english" /TEXT:"shameful" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:852;
+item="word" /LANG:"english" /TEXT:"shameless" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:853;
+item="word" /LANG:"english" /TEXT:"slow-acting" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1514;
+item="word" /LANG:"english" /TEXT:"warrior" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:115;
+item="word" /LANG:"russian" /TEXT:"замедл{е'}ние" /DICT:"HCP_RUS-ENG_001" /CHAR:8 /HEAD:618;
+
+[END]

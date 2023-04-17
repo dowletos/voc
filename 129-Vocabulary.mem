@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"demote" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:433;
+item="word" /LANG:"english" /TEXT:"demotion" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:434;
+item="word" /LANG:"english" /TEXT:"denote" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:451;
+item="word" /LANG:"english" /TEXT:"denounce" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:452;
+item="word" /LANG:"english" /TEXT:"excessive" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:813;
+item="word" /LANG:"english" /TEXT:"harass" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:172;
+item="word" /LANG:"english" /TEXT:"harassment" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:174;
+item="word" /LANG:"english" /TEXT:"missile" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:909;
+item="word" /LANG:"english" /TEXT:"missile base" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:910;
+item="word" /LANG:"english" /TEXT:"missile launcher" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:911;
+item="word" /LANG:"english" /TEXT:"off-the-record" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:184;
+item="word" /LANG:"english" /TEXT:"pose" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1262;
+
+[END]

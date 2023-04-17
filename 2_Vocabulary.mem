@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"bribery" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1202;
+item="word" /LANG:"english" /TEXT:"controversy" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1772;
+item="word" /LANG:"english" /TEXT:"debilitate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:188;
+item="word" /LANG:"english" /TEXT:"debilitating" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:189;
+item="word" /LANG:"english" /TEXT:"impatience" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:190;
+item="word" /LANG:"english" /TEXT:"incentive" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:332;
+item="word" /LANG:"english" /TEXT:"induce" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:494;
+item="word" /LANG:"english" /TEXT:"inducement" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:495;
+item="word" /LANG:"english" /TEXT:"predicament" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1453;
+item="word" /LANG:"english" /TEXT:"scrutiny" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:435;
+item="word" /LANG:"english" /TEXT:"vigorous" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:259;
+
+[END]

@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"boost" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:990;
+item="word" /LANG:"english" /TEXT:"booster" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:991;
+item="word" /LANG:"english" /TEXT:"clay" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:951;
+item="word" /LANG:"english" /TEXT:"distress" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1061;
+item="word" /LANG:"english" /TEXT:"inscription" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:724;
+item="word" /LANG:"english" /TEXT:"inscrutable" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:725;
+item="word" /LANG:"english" /TEXT:"perceive" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:528;
+item="word" /LANG:"english" /TEXT:"tenant" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:334;
+item="word" /LANG:"english" /TEXT:"tendency" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:336;
+item="word" /LANG:"english" /TEXT:"ultimate" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:31;
+item="word" /LANG:"english" /TEXT:"ultimately" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:32;
+
+[END]

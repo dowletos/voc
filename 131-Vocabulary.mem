@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"chilly" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:745;
+item="word" /LANG:"english" /TEXT:"contender" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1706;
+item="word" /LANG:"english" /TEXT:"downpour" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1295;
+item="word" /LANG:"english" /TEXT:"ebb" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:64;
+item="word" /LANG:"english" /TEXT:"intense" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:856;
+item="word" /LANG:"english" /TEXT:"mess" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:602;
+item="word" /LANG:"english" /TEXT:"outlook" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:497;
+item="word" /LANG:"english" /TEXT:"severe" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:795;
+item="word" /LANG:"english" /TEXT:"thunderstorm" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:612;
+item="word" /LANG:"english" /TEXT:"tide" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:641;
+item="word" /LANG:"english" /TEXT:"tidily" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:642;
+
+[END]

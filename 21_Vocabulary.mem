@@ -1,0 +1,21 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"anvil" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:977;
+item="word" /LANG:"english" /TEXT:"auxiliary" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1509;
+item="word" /LANG:"english" /TEXT:"crowbar" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2281;
+item="word" /LANG:"english" /TEXT:"delightful" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:384;
+item="word" /LANG:"english" /TEXT:"fiddle" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:339;
+item="word" /LANG:"english" /TEXT:"genuine" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:227;
+item="word" /LANG:"english" /TEXT:"incomprehensible" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:371;
+item="word" /LANG:"english" /TEXT:"obvious" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:78;
+item="word" /LANG:"english" /TEXT:"odour" /TEXT:"odor" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:127;
+item="word" /LANG:"english" /TEXT:"odourless" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:128;
+item="word" /LANG:"english" /TEXT:"pine" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:850;
+item="word" /LANG:"english" /TEXT:"scrap" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:388;
+item="word" /LANG:"english" /TEXT:"spark" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1927;
+item="word" /LANG:"english" /TEXT:"takeover" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:62;
+item="word" /LANG:"english" /TEXT:"workshop" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:702;
+item="word" /LANG:"russian" /TEXT:"лом" /DICT:"HCP_RUS-ENG_001" /CHAR:12 /HEAD:517;
+item="word" /LANG:"russian" /TEXT:"металлол{о'}м" /DICT:"HCP_RUS-ENG_001" /CHAR:13 /HEAD:531;
+
+[END]

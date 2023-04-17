@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"derive" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:533;
+item="word" /LANG:"english" /TEXT:"hint" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:609;
+item="word" /LANG:"english" /TEXT:"intestinal" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:952;
+item="word" /LANG:"english" /TEXT:"intestine" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:953;
+item="word" /LANG:"english" /TEXT:"intimate" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:955;
+item="word" /LANG:"english" /TEXT:"intimation" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:957;
+item="word" /LANG:"english" /TEXT:"reveal" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:952;
+item="word" /LANG:"english" /TEXT:"score" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:357;
+item="word" /LANG:"english" /TEXT:"tray" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1099;
+item="word" /LANG:"english" /TEXT:"underscore" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:196;
+
+[END]

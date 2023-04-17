@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"calamity" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:53;
+item="word" /LANG:"english" /TEXT:"equate" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:581;
+item="word" /LANG:"english" /TEXT:"evoke" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:773;
+item="word" /LANG:"english" /TEXT:"hands-on" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:137;
+item="word" /LANG:"english" /TEXT:"hygiene" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:1027;
+item="word" /LANG:"english" /TEXT:"implicit" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:226;
+item="word" /LANG:"english" /TEXT:"journey" /DICT:"HCP_ENG-RUS_001" /CHAR:10 /HEAD:160;
+item="word" /LANG:"english" /TEXT:"maternity" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:367;
+item="word" /LANG:"english" /TEXT:"misfortune" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:877;
+item="word" /LANG:"english" /TEXT:"notion" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:501;
+item="word" /LANG:"english" /TEXT:"plentiful" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1018;
+item="word" /LANG:"english" /TEXT:"sustain" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3074;
+item="word" /LANG:"english" /TEXT:"tribe" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1147;
+item="word" /LANG:"english" /TEXT:"wholesome" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:450;
+
+[END]

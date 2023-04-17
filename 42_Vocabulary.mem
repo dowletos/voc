@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"acceptance" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:128;
+item="word" /LANG:"english" /TEXT:"acronym" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:231;
+item="word" /LANG:"english" /TEXT:"adhere" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:294;
+item="word" /LANG:"english" /TEXT:"assumption" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1344;
+item="word" /LANG:"english" /TEXT:"brevity" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1196;
+item="word" /LANG:"english" /TEXT:"checkout" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:665;
+item="word" /LANG:"english" /TEXT:"graceful" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:537;
+item="word" /LANG:"english" /TEXT:"rigorous" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1087;
+item="word" /LANG:"english" /TEXT:"velocity" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:118;
+item="word" /LANG:"english" /TEXT:"viable" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:202;
+
+[END]

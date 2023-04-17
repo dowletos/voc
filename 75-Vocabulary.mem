@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"bribery" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1202;
+item="word" /LANG:"english" /TEXT:"crafty" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2100;
+item="word" /LANG:"english" /TEXT:"illegal" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:100;
+item="word" /LANG:"english" /TEXT:"illicit" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:109;
+item="word" /LANG:"english" /TEXT:"ingenuity" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:629;
+item="word" /LANG:"english" /TEXT:"launder" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:189;
+item="word" /LANG:"english" /TEXT:"legitimate" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:348;
+item="word" /LANG:"english" /TEXT:"punch" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:2029;
+item="word" /LANG:"english" /TEXT:"scold" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:347;
+item="word" /LANG:"english" /TEXT:"scolding" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:348;
+
+[END]

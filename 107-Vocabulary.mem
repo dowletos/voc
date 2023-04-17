@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"curiously" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2402;
+item="word" /LANG:"english" /TEXT:"droplet" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1435;
+item="word" /LANG:"english" /TEXT:"drop-out" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1436;
+item="word" /LANG:"english" /TEXT:"empower" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:358;
+item="word" /LANG:"english" /TEXT:"lesser" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:392;
+item="word" /LANG:"english" /TEXT:"parish" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:225;
+item="word" /LANG:"english" /TEXT:"prosper" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1868;
+item="word" /LANG:"english" /TEXT:"prosperity" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1869;
+item="word" /LANG:"english" /TEXT:"prosperous" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1870;
+item="word" /LANG:"english" /TEXT:"sacred" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:15;
+item="word" /LANG:"english" /TEXT:"stance" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2271;
+
+[END]

@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"convey" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1801;
+item="word" /LANG:"english" /TEXT:"discipline" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:859;
+item="word" /LANG:"english" /TEXT:"emphasis" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:345;
+item="word" /LANG:"english" /TEXT:"fascinating" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:161;
+item="word" /LANG:"english" /TEXT:"femininity" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:275;
+item="word" /LANG:"english" /TEXT:"futile" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:1275;
+item="word" /LANG:"english" /TEXT:"guardian" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:774;
+item="word" /LANG:"english" /TEXT:"guardrail" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:775;
+item="word" /LANG:"english" /TEXT:"instalment" /TEXT:"installment" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:785;
+item="word" /LANG:"english" /TEXT:"salvation" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:113;
+
+[END]

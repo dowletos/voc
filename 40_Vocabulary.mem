@@ -1,0 +1,19 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"ash" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1272;
+item="word" /LANG:"english" /TEXT:"ashtray" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1277;
+item="word" /LANG:"english" /TEXT:"coach" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1080;
+item="word" /LANG:"english" /TEXT:"conducive" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1509;
+item="word" /LANG:"english" /TEXT:"consistent" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1633;
+item="word" /LANG:"english" /TEXT:"embarrassing" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:288;
+item="word" /LANG:"english" /TEXT:"emission" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:335;
+item="word" /LANG:"english" /TEXT:"foster" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:939;
+item="word" /LANG:"english" /TEXT:"fuzzy" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:1282;
+item="word" /LANG:"english" /TEXT:"illness" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:113;
+item="word" /LANG:"english" /TEXT:"propensity" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1833;
+item="word" /LANG:"english" /TEXT:"scatter" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:290;
+item="word" /LANG:"english" /TEXT:"squeak" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2189;
+item="word" /LANG:"english" /TEXT:"stub" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2680;
+item="word" /LANG:"english" /TEXT:"upfront" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:570;
+
+[END]

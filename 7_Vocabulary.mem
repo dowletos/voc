@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"adjust" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:309;
+item="word" /LANG:"english" /TEXT:"extraordinary" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:1000;
+item="word" /LANG:"english" /TEXT:"generous" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:203;
+item="word" /LANG:"english" /TEXT:"hinder" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:603;
+item="word" /LANG:"english" /TEXT:"reluctant" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:629;
+item="word" /LANG:"english" /TEXT:"reluctantly" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:630;
+item="word" /LANG:"english" /TEXT:"timid" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:696;
+item="word" /LANG:"english" /TEXT:"tumbler" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1291;
+item="word" /LANG:"english" /TEXT:"tummy" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1292;
+item="word" /LANG:"english" /TEXT:"tumour" /TEXT:"tumor" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1294;
+item="word" /LANG:"english" /TEXT:"tumultuous" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1296;
+
+[END]

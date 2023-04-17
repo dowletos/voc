@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"converge" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1789;
+item="word" /LANG:"english" /TEXT:"denial" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:442;
+item="word" /LANG:"english" /TEXT:"divulge" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1114;
+item="word" /LANG:"english" /TEXT:"haste" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:248;
+item="word" /LANG:"english" /TEXT:"oriental" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:413;
+item="word" /LANG:"english" /TEXT:"overrule" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:612;
+item="word" /LANG:"english" /TEXT:"settle" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:781;
+item="word" /LANG:"english" /TEXT:"solicit" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1766;
+item="word" /LANG:"english" /TEXT:"splice" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2072;
+item="word" /LANG:"english" /TEXT:"troublesome" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1213;
+
+[END]

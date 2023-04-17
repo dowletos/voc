@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"acute" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:258;
+item="word" /LANG:"english" /TEXT:"collar" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1195;
+item="word" /LANG:"english" /TEXT:"converge" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1789;
+item="word" /LANG:"english" /TEXT:"diffuse" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:723;
+item="word" /LANG:"english" /TEXT:"discretion" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:894;
+item="word" /LANG:"english" /TEXT:"down payment" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1293;
+item="word" /LANG:"english" /TEXT:"foster" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:939;
+item="word" /LANG:"english" /TEXT:"frugal" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:1154;
+item="word" /LANG:"english" /TEXT:"lavatory" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:197;
+item="word" /LANG:"english" /TEXT:"regain" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:523;
+item="word" /LANG:"english" /TEXT:"sewer" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:801;
+item="word" /LANG:"english" /TEXT:"tactful" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:29;
+item="word" /LANG:"english" /TEXT:"white-collar worker" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:420;
+
+[END]

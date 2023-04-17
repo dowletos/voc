@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"comparison" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1367;
+item="word" /LANG:"english" /TEXT:"comprise" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1431;
+item="word" /LANG:"english" /TEXT:"concession" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1474;
+item="word" /LANG:"english" /TEXT:"confine" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1535;
+item="word" /LANG:"english" /TEXT:"enable" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:371;
+item="word" /LANG:"english" /TEXT:"encouraging" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:392;
+item="word" /LANG:"english" /TEXT:"foster" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:939;
+item="word" /LANG:"english" /TEXT:"invention" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1007;
+item="word" /LANG:"english" /TEXT:"inventive" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1008;
+item="word" /LANG:"english" /TEXT:"inventiveness" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1009;
+item="word" /LANG:"english" /TEXT:"unsettled" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:492;
+
+[END]

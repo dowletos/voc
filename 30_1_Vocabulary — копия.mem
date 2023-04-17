@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"hesitate" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:504;
+item="word" /LANG:"english" /TEXT:"hesitation" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:505;
+item="word" /LANG:"english" /TEXT:"household" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:882;
+item="word" /LANG:"english" /TEXT:"imposition" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:241;
+item="word" /LANG:"english" /TEXT:"intimacy" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:954;
+item="word" /LANG:"english" /TEXT:"intimate" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:955;
+item="word" /LANG:"english" /TEXT:"lessen" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:391;
+item="word" /LANG:"english" /TEXT:"lesser" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:392;
+item="word" /LANG:"english" /TEXT:"mitigation" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:942;
+item="word" /LANG:"english" /TEXT:"shrug" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1105;
+item="word" /LANG:"english" /TEXT:"trade-off" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:975;
+item="word" /LANG:"english" /TEXT:"tremendous" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1125;
+item="word" /LANG:"english" /TEXT:"validity" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:39;
+
+[END]

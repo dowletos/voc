@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"burst" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1467;
+item="word" /LANG:"english" /TEXT:"convince" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1807;
+item="word" /LANG:"english" /TEXT:"forbearing" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:805;
+item="word" /LANG:"english" /TEXT:"linger" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:572;
+item="word" /LANG:"english" /TEXT:"lingerie" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:573;
+item="word" /LANG:"english" /TEXT:"parsley" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:257;
+item="word" /LANG:"english" /TEXT:"piecemeal" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:795;
+item="word" /LANG:"english" /TEXT:"piece rate" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:796;
+item="word" /LANG:"english" /TEXT:"piecework" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:797;
+item="word" /LANG:"english" /TEXT:"plausible" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:979;
+item="word" /LANG:"english" /TEXT:"retail" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:899;
+item="word" /LANG:"english" /TEXT:"script" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:418;
+item="word" /LANG:"english" /TEXT:"wholesale" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:448;
+
+[END]

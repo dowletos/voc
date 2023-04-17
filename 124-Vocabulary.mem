@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"adore" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:344;
+item="word" /LANG:"english" /TEXT:"cherry" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:697;
+item="word" /LANG:"english" /TEXT:"compromise" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1432;
+item="word" /LANG:"english" /TEXT:"confess" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1524;
+item="word" /LANG:"english" /TEXT:"needle" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:174;
+item="word" /LANG:"english" /TEXT:"sibling" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1125;
+item="word" /LANG:"english" /TEXT:"snore" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1640;
+item="word" /LANG:"english" /TEXT:"soul mate" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1852;
+item="word" /LANG:"english" /TEXT:"stew" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2435;
+item="word" /LANG:"english" /TEXT:"twosome" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1402;
+item="word" /LANG:"english" /TEXT:"ultimately" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:32;
+
+[END]

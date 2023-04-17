@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"appalling" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1022;
+item="word" /LANG:"english" /TEXT:"conform" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1547;
+item="word" /LANG:"english" /TEXT:"conscious" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1603;
+item="word" /LANG:"english" /TEXT:"cook" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1817;
+item="word" /LANG:"english" /TEXT:"miserable" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:871;
+item="word" /LANG:"english" /TEXT:"phenomenon" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:711;
+item="word" /LANG:"english" /TEXT:"rivalry" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1135;
+item="word" /LANG:"english" /TEXT:"slaughter" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1418;
+item="word" /LANG:"english" /TEXT:"slaughterhouse" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1419;
+item="word" /LANG:"english" /TEXT:"stupidity" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2716;
+item="word" /LANG:"english" /TEXT:"timidity" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:697;
+item="word" /LANG:"english" /TEXT:"vagary" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:20;
+
+[END]

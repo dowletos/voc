@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"agile" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:496;
+item="word" /LANG:"english" /TEXT:"backlog" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:39;
+item="word" /LANG:"english" /TEXT:"batch" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:285;
+item="word" /LANG:"english" /TEXT:"descriptive" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:547;
+item="word" /LANG:"english" /TEXT:"mentor" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:568;
+item="word" /LANG:"english" /TEXT:"persevere" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:605;
+item="word" /LANG:"english" /TEXT:"pickle" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:779;
+item="word" /LANG:"english" /TEXT:"prescriptive" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1529;
+item="word" /LANG:"english" /TEXT:"robust" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1176;
+item="word" /LANG:"english" /TEXT:"sprint" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2150;
+item="word" /LANG:"english" /TEXT:"typo" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1425;
+item="word" /LANG:"english" /TEXT:"viable" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:202;
+
+[END]

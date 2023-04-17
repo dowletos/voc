@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"disgusting" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:922;
+item="word" /LANG:"english" /TEXT:"embodiment" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:300;
+item="word" /LANG:"english" /TEXT:"embody" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:301;
+item="word" /LANG:"english" /TEXT:"embrace" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:305;
+item="word" /LANG:"english" /TEXT:"meantime" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:449;
+item="word" /LANG:"english" /TEXT:"meanwhile" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:450;
+item="word" /LANG:"english" /TEXT:"sore" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1833;
+item="word" /LANG:"english" /TEXT:"undertake" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:213;
+item="word" /LANG:"english" /TEXT:"unkindly" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:377;
+item="word" /LANG:"english" /TEXT:"unknown" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:378;
+
+[END]

@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"detergent" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:612;
+item="word" /LANG:"english" /TEXT:"deterioration" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:614;
+item="word" /LANG:"english" /TEXT:"humble" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:952;
+item="word" /LANG:"english" /TEXT:"humid" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:956;
+item="word" /LANG:"english" /TEXT:"humorous" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:966;
+item="word" /LANG:"english" /TEXT:"quay" /DICT:"HCP_ENG-RUS_001" /CHAR:17 /HEAD:55;
+item="word" /LANG:"english" /TEXT:"sewer" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:801;
+item="word" /LANG:"english" /TEXT:"swindle" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3147;
+item="word" /LANG:"english" /TEXT:"swindler" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3148;
+item="word" /LANG:"english" /TEXT:"worn-out" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:717;
+
+[END]

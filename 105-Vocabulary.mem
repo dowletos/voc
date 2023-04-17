@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"changeover" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:586;
+item="word" /LANG:"english" /TEXT:"changing room" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:588;
+item="word" /LANG:"english" /TEXT:"countrywide" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2019;
+item="word" /LANG:"english" /TEXT:"county" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2020;
+item="word" /LANG:"english" /TEXT:"decent" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:224;
+item="word" /LANG:"english" /TEXT:"decently" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:225;
+item="word" /LANG:"english" /TEXT:"density" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:455;
+item="word" /LANG:"english" /TEXT:"hype" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:1030;
+item="word" /LANG:"english" /TEXT:"hyphen" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:1035;
+item="word" /LANG:"english" /TEXT:"seemingly" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:577;
+item="word" /LANG:"english" /TEXT:"unattended" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:71;
+
+[END]

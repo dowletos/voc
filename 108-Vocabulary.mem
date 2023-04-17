@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"aware" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1543;
+item="word" /LANG:"english" /TEXT:"clarify" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:928;
+item="word" /LANG:"english" /TEXT:"fail" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:47;
+item="word" /LANG:"english" /TEXT:"heated" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:378;
+item="word" /LANG:"english" /TEXT:"interim" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:893;
+item="word" /LANG:"english" /TEXT:"politician" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1160;
+item="word" /LANG:"english" /TEXT:"redeem" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:422;
+item="word" /LANG:"english" /TEXT:"redemption" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:426;
+item="word" /LANG:"english" /TEXT:"remedy" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:642;
+item="word" /LANG:"english" /TEXT:"underrate" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:195;
+item="word" /LANG:"english" /TEXT:"youngster" /DICT:"HCP_ENG-RUS_001" /CHAR:25 /HEAD:62;
+
+[END]

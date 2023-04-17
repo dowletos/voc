@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"circumscribe" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:868;
+item="word" /LANG:"english" /TEXT:"cunning" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2378;
+item="word" /LANG:"english" /TEXT:"cunt" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2379;
+item="word" /LANG:"english" /TEXT:"curse" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2422;
+item="word" /LANG:"english" /TEXT:"disgusting" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:922;
+item="word" /LANG:"english" /TEXT:"immensely" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:157;
+item="word" /LANG:"english" /TEXT:"insight" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:753;
+item="word" /LANG:"english" /TEXT:"reconcile" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:365;
+item="word" /LANG:"english" /TEXT:"revelation" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:956;
+item="word" /LANG:"english" /TEXT:"sly" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1536;
+item="word" /LANG:"english" /TEXT:"stunning" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2708;
+item="word" /LANG:"english" /TEXT:"treaty" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1114;
+
+[END]

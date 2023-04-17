@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"abdication" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:26;
+item="word" /LANG:"english" /TEXT:"bias" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:565;
+item="word" /LANG:"english" /TEXT:"biased" /TEXT:"biassed" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:566;
+item="word" /LANG:"english" /TEXT:"engage" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:433;
+item="word" /LANG:"english" /TEXT:"evoke" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:773;
+item="word" /LANG:"english" /TEXT:"ignite" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:82;
+item="word" /LANG:"english" /TEXT:"outright" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:516;
+item="word" /LANG:"english" /TEXT:"radical" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:49;
+item="word" /LANG:"english" /TEXT:"remarkable" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:639;
+item="word" /LANG:"english" /TEXT:"tend" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:335;
+
+[END]

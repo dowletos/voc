@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"loyalty" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:869;
+item="word" /LANG:"english" /TEXT:"merit" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:593;
+item="word" /LANG:"english" /TEXT:"outstanding" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:532;
+item="word" /LANG:"english" /TEXT:"overstate" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:625;
+item="word" /LANG:"english" /TEXT:"pinpoint" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:860;
+item="word" /LANG:"english" /TEXT:"seniority" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:705;
+item="word" /LANG:"english" /TEXT:"shallow" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:846;
+item="word" /LANG:"english" /TEXT:"steep" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2393;
+item="word" /LANG:"english" /TEXT:"supporter" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2996;
+item="word" /LANG:"english" /TEXT:"unison" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:353;
+item="word" /LANG:"english" /TEXT:"vindicate" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:270;
+item="word" /LANG:"english" /TEXT:"vindication" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:271;
+item="word" /LANG:"english" /TEXT:"vindictive" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:272;
+
+[END]

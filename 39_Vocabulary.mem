@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"align" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:624;
+item="word" /LANG:"english" /TEXT:"alignment" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:625;
+item="word" /LANG:"english" /TEXT:"courtesy" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2037;
+item="word" /LANG:"english" /TEXT:"disillusion" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:935;
+item="word" /LANG:"english" /TEXT:"grit" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:699;
+item="word" /LANG:"english" /TEXT:"grizzle" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:700;
+item="word" /LANG:"english" /TEXT:"miserable" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:871;
+item="word" /LANG:"english" /TEXT:"odds" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:120;
+item="word" /LANG:"english" /TEXT:"reluctant" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:629;
+item="word" /LANG:"english" /TEXT:"resign" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:823;
+item="word" /LANG:"english" /TEXT:"whimper" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:396;
+item="word" /LANG:"english" /TEXT:"wrench" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:759;
+
+[END]

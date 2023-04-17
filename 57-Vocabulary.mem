@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"accuse" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:184;
+item="word" /LANG:"english" /TEXT:"adhere" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:294;
+item="word" /LANG:"english" /TEXT:"assert" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1316;
+item="word" /LANG:"english" /TEXT:"condemn" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1494;
+item="word" /LANG:"english" /TEXT:"convey" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1801;
+item="word" /LANG:"english" /TEXT:"derive" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:533;
+item="word" /LANG:"english" /TEXT:"reliance" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:611;
+item="word" /LANG:"english" /TEXT:"reliant" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:612;
+item="word" /LANG:"english" /TEXT:"retain" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:904;
+item="word" /LANG:"english" /TEXT:"word of mouth" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:670;
+item="word" /LANG:"english" /TEXT:"worthless" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:732;
+
+[END]

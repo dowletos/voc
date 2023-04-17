@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"mast" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:342;
+item="word" /LANG:"english" /TEXT:"merit" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:593;
+item="word" /LANG:"english" /TEXT:"oblige" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:35;
+item="word" /LANG:"english" /TEXT:"phenomenon" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:711;
+item="word" /LANG:"english" /TEXT:"reiterate" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:581;
+item="word" /LANG:"english" /TEXT:"roar" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1164;
+item="word" /LANG:"english" /TEXT:"shape" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:861;
+item="word" /LANG:"english" /TEXT:"short-staffed" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1045;
+item="word" /LANG:"english" /TEXT:"shoulder strap" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1057;
+item="word" /LANG:"english" /TEXT:"spew" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2016;
+item="word" /LANG:"english" /TEXT:"vigorous" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:259;
+
+[END]

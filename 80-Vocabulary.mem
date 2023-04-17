@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"discourage" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:884;
+item="word" /LANG:"english" /TEXT:"discouragement" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:885;
+item="word" /LANG:"english" /TEXT:"dissent" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1024;
+item="word" /LANG:"english" /TEXT:"dissenter" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1025;
+item="word" /LANG:"english" /TEXT:"expose" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:947;
+item="word" /LANG:"english" /TEXT:"fluent" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:685;
+item="word" /LANG:"english" /TEXT:"inadequacy" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:295;
+item="word" /LANG:"english" /TEXT:"inefficient" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:519;
+item="word" /LANG:"english" /TEXT:"persistence" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:610;
+item="word" /LANG:"english" /TEXT:"premise" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1499;
+
+[END]

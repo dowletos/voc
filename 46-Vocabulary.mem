@@ -1,0 +1,21 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"attainments" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1412;
+item="word" /LANG:"english" /TEXT:"chest" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:704;
+item="word" /LANG:"english" /TEXT:"contrary" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1748;
+item="word" /LANG:"english" /TEXT:"conventional" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1787;
+item="word" /LANG:"english" /TEXT:"cupboard" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2381;
+item="word" /LANG:"english" /TEXT:"desirable" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:564;
+item="word" /LANG:"english" /TEXT:"ensure" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:488;
+item="word" /LANG:"english" /TEXT:"excess" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:810;
+item="word" /LANG:"english" /TEXT:"excess baggage" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:811;
+item="word" /LANG:"english" /TEXT:"exert" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:861;
+item="word" /LANG:"english" /TEXT:"heterogeneous" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:507;
+item="word" /LANG:"english" /TEXT:"provision" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1910;
+item="word" /LANG:"english" /TEXT:"spur" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2163;
+item="word" /LANG:"english" /TEXT:"tremendous" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1125;
+item="word" /LANG:"english" /TEXT:"union" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:346;
+item="word" /LANG:"english" /TEXT:"widow" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:479;
+item="word" /LANG:"russian" /TEXT:"общепр{и'}нятый" /DICT:"HCP_RUS-ENG_001" /CHAR:15 /HEAD:526;
+
+[END]

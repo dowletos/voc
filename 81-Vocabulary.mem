@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"axe" /TEXT:"ax" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1563;
+item="word" /LANG:"english" /TEXT:"brunch" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1303;
+item="word" /LANG:"english" /TEXT:"bypass" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1529;
+item="word" /LANG:"english" /TEXT:"circumstances" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:870;
+item="word" /LANG:"english" /TEXT:"claim" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:908;
+item="word" /LANG:"english" /TEXT:"germinate" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:248;
+item="word" /LANG:"english" /TEXT:"outbreak" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:469;
+item="word" /LANG:"english" /TEXT:"overlap" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:594;
+item="word" /LANG:"english" /TEXT:"prevailing" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1583;
+item="word" /LANG:"english" /TEXT:"seduce" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:566;
+item="word" /LANG:"english" /TEXT:"seduction" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:567;
+item="word" /LANG:"english" /TEXT:"surge" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3027;
+item="word" /LANG:"english" /TEXT:"unanimous" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:61;
+item="word" /LANG:"russian" /TEXT:"унест{и'}" /DICT:"HCP_RUS-ENG_001" /CHAR:20 /HEAD:541;
+
+[END]

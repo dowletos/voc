@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"abandon" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:13;
+item="word" /LANG:"english" /TEXT:"appeal" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1028;
+item="word" /LANG:"english" /TEXT:"appealing" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1029;
+item="word" /LANG:"english" /TEXT:"decisive" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:242;
+item="word" /LANG:"english" /TEXT:"dignity" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:737;
+item="word" /LANG:"english" /TEXT:"encumber" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:395;
+item="word" /LANG:"english" /TEXT:"enlighten" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:465;
+item="word" /LANG:"english" /TEXT:"enlightenment" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:468;
+item="word" /LANG:"english" /TEXT:"hostile" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:843;
+item="word" /LANG:"english" /TEXT:"hostility" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:844;
+item="word" /LANG:"english" /TEXT:"outclass" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:473;
+item="word" /LANG:"english" /TEXT:"perceive" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:528;
+
+[END]

@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"alleged" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:636;
+item="word" /LANG:"english" /TEXT:"blameless" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:717;
+item="word" /LANG:"english" /TEXT:"contend" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1705;
+item="word" /LANG:"english" /TEXT:"release" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:602;
+item="word" /LANG:"english" /TEXT:"shake" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:837;
+item="word" /LANG:"english" /TEXT:"subdued" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2744;
+item="word" /LANG:"english" /TEXT:"survey" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3054;
+item="word" /LANG:"english" /TEXT:"ticket holder" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:632;
+item="word" /LANG:"english" /TEXT:"tidily" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:642;
+item="word" /LANG:"english" /TEXT:"tidiness" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:643;
+item="word" /LANG:"english" /TEXT:"undisputed" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:234;
+item="word" /LANG:"russian" /TEXT:"пошатн{у'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:2850;
+
+[END]

@@ -1,0 +1,20 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"bestow" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:539;
+item="word" /LANG:"english" /TEXT:"contribution" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1755;
+item="word" /LANG:"english" /TEXT:"crucial" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2292;
+item="word" /LANG:"english" /TEXT:"fluid" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:689;
+item="word" /LANG:"english" /TEXT:"handful" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:119;
+item="word" /LANG:"english" /TEXT:"merge" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:589;
+item="word" /LANG:"english" /TEXT:"merger" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:590;
+item="word" /LANG:"english" /TEXT:"onerous" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:262;
+item="word" /LANG:"english" /TEXT:"predecessor" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1450;
+item="word" /LANG:"english" /TEXT:"promulgate" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1814;
+item="word" /LANG:"english" /TEXT:"reshuffle" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:816;
+item="word" /LANG:"english" /TEXT:"sought-after" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1847;
+item="word" /LANG:"english" /TEXT:"split" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2076;
+item="word" /LANG:"english" /TEXT:"supremacy" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3007;
+item="word" /LANG:"english" /TEXT:"surprising" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3040;
+item="word" /LANG:"english" /TEXT:"turnover" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1346;
+
+[END]

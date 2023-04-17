@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"accomplishment" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:154;
+item="word" /LANG:"english" /TEXT:"astounding" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1362;
+item="word" /LANG:"english" /TEXT:"behead" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:447;
+item="word" /LANG:"english" /TEXT:"conscript" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1605;
+item="word" /LANG:"english" /TEXT:"insist" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:761;
+item="word" /LANG:"english" /TEXT:"invasion" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1003;
+item="word" /LANG:"english" /TEXT:"retreat" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:930;
+item="word" /LANG:"english" /TEXT:"seize" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:589;
+item="word" /LANG:"english" /TEXT:"strait" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2573;
+item="word" /LANG:"english" /TEXT:"straitjacket" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2574;
+
+[END]

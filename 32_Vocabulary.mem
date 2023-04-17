@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"ambiguous" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:735;
+item="word" /LANG:"english" /TEXT:"condolences" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1505;
+item="word" /LANG:"english" /TEXT:"gloomy" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:381;
+item="word" /LANG:"english" /TEXT:"invade" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:996;
+item="word" /LANG:"english" /TEXT:"invader" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:997;
+item="word" /LANG:"english" /TEXT:"overwhelm" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:645;
+item="word" /LANG:"english" /TEXT:"overwhelming" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:646;
+item="word" /LANG:"english" /TEXT:"possess" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1271;
+item="word" /LANG:"english" /TEXT:"prevail" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1582;
+item="word" /LANG:"english" /TEXT:"prevailing" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1583;
+item="word" /LANG:"english" /TEXT:"rivalry" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1135;
+item="word" /LANG:"english" /TEXT:"subordinate" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2764;
+item="word" /LANG:"english" /TEXT:"victim" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:227;
+
+[END]

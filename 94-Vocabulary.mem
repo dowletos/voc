@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"converge" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1789;
+item="word" /LANG:"english" /TEXT:"embedded" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:291;
+item="word" /LANG:"english" /TEXT:"embellish" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:292;
+item="word" /LANG:"english" /TEXT:"habitual" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:8;
+item="word" /LANG:"english" /TEXT:"wholesale" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:448;
+item="word" /LANG:"english" /TEXT:"wholesaler" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:449;
+item="word" /LANG:"english" /TEXT:"whore" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:458;
+item="word" /LANG:"english" /TEXT:"wide-eyed" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:472;
+item="word" /LANG:"english" /TEXT:"widowed" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:480;
+item="word" /LANG:"english" /TEXT:"widower" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:481;
+
+[END]

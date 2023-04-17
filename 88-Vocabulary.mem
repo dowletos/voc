@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"abolish" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:52;
+item="word" /LANG:"english" /TEXT:"birth rate" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:660;
+item="word" /LANG:"english" /TEXT:"exhaustive" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:869;
+item="word" /LANG:"english" /TEXT:"exhibition" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:871;
+item="word" /LANG:"english" /TEXT:"exile" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:877;
+item="word" /LANG:"english" /TEXT:"light-fingered" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:509;
+item="word" /LANG:"english" /TEXT:"light-hearted" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:511;
+item="word" /LANG:"english" /TEXT:"mitigate" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:941;
+item="word" /LANG:"english" /TEXT:"mitigation" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:942;
+item="word" /LANG:"english" /TEXT:"overtake" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:634;
+item="word" /LANG:"english" /TEXT:"sanitation" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:154;
+item="word" /LANG:"english" /TEXT:"sanity" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:156;
+
+[END]

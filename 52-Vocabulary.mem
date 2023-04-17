@@ -1,0 +1,20 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"affiliated" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:426;
+item="word" /LANG:"english" /TEXT:"affinity" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:427;
+item="word" /LANG:"english" /TEXT:"designate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:560;
+item="word" /LANG:"english" /TEXT:"escalation" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:629;
+item="word" /LANG:"english" /TEXT:"guess" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:782;
+item="word" /LANG:"english" /TEXT:"heir" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:424;
+item="word" /LANG:"english" /TEXT:"niche" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:314;
+item="word" /LANG:"english" /TEXT:"recall" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:313;
+item="word" /LANG:"english" /TEXT:"reshuffle" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:816;
+item="word" /LANG:"english" /TEXT:"stain" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2243;
+item="word" /LANG:"english" /TEXT:"stainless steel" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2245;
+item="word" /LANG:"english" /TEXT:"stain remover" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2246;
+item="word" /LANG:"english" /TEXT:"straightforward" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2568;
+item="word" /LANG:"english" /TEXT:"stubborn" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2682;
+item="word" /LANG:"english" /TEXT:"underlie" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:179;
+item="word" /LANG:"english" /TEXT:"vigorous" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:259;
+
+[END]

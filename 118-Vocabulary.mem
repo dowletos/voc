@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"aware" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1543;
+item="word" /LANG:"english" /TEXT:"awareness" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1544;
+item="word" /LANG:"english" /TEXT:"beware" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:555;
+item="word" /LANG:"english" /TEXT:"bewildered" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:556;
+item="word" /LANG:"english" /TEXT:"evaporated milk" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:736;
+item="word" /LANG:"english" /TEXT:"evasion" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:738;
+item="word" /LANG:"english" /TEXT:"evasive" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:739;
+item="word" /LANG:"english" /TEXT:"eve" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:740;
+item="word" /LANG:"english" /TEXT:"headstone" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:332;
+item="word" /LANG:"english" /TEXT:"tricky" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1159;
+
+[END]

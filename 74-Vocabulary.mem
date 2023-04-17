@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"abide" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:38;
+item="word" /LANG:"english" /TEXT:"convincing" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1809;
+item="word" /LANG:"english" /TEXT:"convincingly" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1810;
+item="word" /LANG:"english" /TEXT:"criminal" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2209;
+item="word" /LANG:"english" /TEXT:"donation" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1205;
+item="word" /LANG:"english" /TEXT:"grossly" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:714;
+item="word" /LANG:"english" /TEXT:"keenly" /DICT:"HCP_ENG-RUS_001" /CHAR:11 /HEAD:25;
+item="word" /LANG:"english" /TEXT:"one-off" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:259;
+item="word" /LANG:"english" /TEXT:"outright" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:516;
+item="word" /LANG:"english" /TEXT:"overpay" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:602;
+item="word" /LANG:"english" /TEXT:"pernicious" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:591;
+
+[END]

@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"disprove" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1006;
+item="word" /LANG:"english" /TEXT:"entirely" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:511;
+item="word" /LANG:"english" /TEXT:"exemplify" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:855;
+item="word" /LANG:"english" /TEXT:"exempt" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:856;
+item="word" /LANG:"english" /TEXT:"exemption" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:857;
+item="word" /LANG:"english" /TEXT:"fallacy" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:76;
+item="word" /LANG:"english" /TEXT:"grant" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:580;
+item="word" /LANG:"english" /TEXT:"insight" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:753;
+item="word" /LANG:"english" /TEXT:"manifestation" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:191;
+item="word" /LANG:"english" /TEXT:"promissory note" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1805;
+item="word" /LANG:"english" /TEXT:"trustworthy" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1256;
+
+[END]

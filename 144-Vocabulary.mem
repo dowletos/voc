@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"appreciate" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1066;
+item="word" /LANG:"english" /TEXT:"carefully" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:262;
+item="word" /LANG:"english" /TEXT:"crucial" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2292;
+item="word" /LANG:"english" /TEXT:"decoration" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:262;
+item="word" /LANG:"english" /TEXT:"implement" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:223;
+item="word" /LANG:"english" /TEXT:"kettle" /DICT:"HCP_ENG-RUS_001" /CHAR:11 /HEAD:45;
+item="word" /LANG:"english" /TEXT:"mix" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:946;
+item="word" /LANG:"english" /TEXT:"scoop" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:350;
+item="word" /LANG:"english" /TEXT:"understate" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:209;
+item="word" /LANG:"russian" /TEXT:"инструм{е'}нт" /DICT:"HCP_RUS-ENG_001" /CHAR:9 /HEAD:555;
+item="word" /LANG:"russian" /TEXT:"перемеш{а'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:562;
+item="word" /LANG:"russian" /TEXT:"ч{е'}рпать" /DICT:"HCP_RUS-ENG_001" /CHAR:24 /HEAD:158;
+
+[END]

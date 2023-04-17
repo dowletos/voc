@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"formal" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:891;
+item="word" /LANG:"english" /TEXT:"gesture" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:254;
+item="word" /LANG:"english" /TEXT:"intention" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:864;
+item="word" /LANG:"english" /TEXT:"master" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:344;
+item="word" /LANG:"english" /TEXT:"prescribe" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1526;
+item="word" /LANG:"english" /TEXT:"significance" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1187;
+item="word" /LANG:"english" /TEXT:"single" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1255;
+item="word" /LANG:"english" /TEXT:"subjugate" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2751;
+item="word" /LANG:"english" /TEXT:"warfare" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:88;
+item="word" /LANG:"english" /TEXT:"wipe" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:576;
+item="word" /LANG:"russian" /TEXT:"овлад{е'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:15 /HEAD:612;
+item="word" /LANG:"russian" /TEXT:"офици{а'}льный" /DICT:"HCP_RUS-ENG_001" /CHAR:15 /HEAD:2119;
+
+[END]

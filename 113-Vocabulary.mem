@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"blatantly" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:735;
+item="word" /LANG:"english" /TEXT:"cruelty" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2299;
+item="word" /LANG:"english" /TEXT:"dubbed" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1484;
+item="word" /LANG:"english" /TEXT:"ill-suited" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:115;
+item="word" /LANG:"english" /TEXT:"ill-treat" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:117;
+item="word" /LANG:"english" /TEXT:"ill-treatment" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:118;
+item="word" /LANG:"english" /TEXT:"invincible" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1033;
+item="word" /LANG:"english" /TEXT:"stubborn" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2682;
+item="word" /LANG:"english" /TEXT:"thrive" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:578;
+item="word" /LANG:"english" /TEXT:"vicinity" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:222;
+item="word" /LANG:"english" /TEXT:"welding" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:291;
+item="word" /LANG:"english" /TEXT:"worship" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:726;
+
+[END]

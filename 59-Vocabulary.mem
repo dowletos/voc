@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"gaze" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:153;
+item="word" /LANG:"english" /TEXT:"go-between" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:430;
+item="word" /LANG:"english" /TEXT:"good-natured" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:489;
+item="word" /LANG:"english" /TEXT:"grand" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:560;
+item="word" /LANG:"english" /TEXT:"hasten" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:249;
+item="word" /LANG:"english" /TEXT:"impression" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:258;
+item="word" /LANG:"english" /TEXT:"laughing stock" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:184;
+item="word" /LANG:"english" /TEXT:"livelihood" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:655;
+item="word" /LANG:"english" /TEXT:"mediator" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:484;
+item="word" /LANG:"english" /TEXT:"miss" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:906;
+
+[END]

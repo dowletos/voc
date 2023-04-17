@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"acquire" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:217;
+item="word" /LANG:"english" /TEXT:"levy" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:422;
+item="word" /LANG:"english" /TEXT:"malice" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:136;
+item="word" /LANG:"english" /TEXT:"malicious" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:137;
+item="word" /LANG:"english" /TEXT:"meantime" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:449;
+item="word" /LANG:"english" /TEXT:"revision" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:981;
+item="word" /LANG:"english" /TEXT:"streamline" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2606;
+item="word" /LANG:"english" /TEXT:"streamlined" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2607;
+item="word" /LANG:"english" /TEXT:"surplus" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3038;
+item="word" /LANG:"english" /TEXT:"urge" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:619;
+
+[END]

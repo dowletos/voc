@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"evolution" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:774;
+item="word" /LANG:"english" /TEXT:"evolve" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:775;
+item="word" /LANG:"english" /TEXT:"fierce" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:354;
+item="word" /LANG:"english" /TEXT:"gunner" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:830;
+item="word" /LANG:"english" /TEXT:"mock" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:981;
+item="word" /LANG:"english" /TEXT:"mocking" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:983;
+item="word" /LANG:"english" /TEXT:"nightmare" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:339;
+item="word" /LANG:"english" /TEXT:"palpable" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:100;
+item="word" /LANG:"english" /TEXT:"pawn" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:373;
+item="word" /LANG:"english" /TEXT:"pawnshop" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:375;
+
+[END]

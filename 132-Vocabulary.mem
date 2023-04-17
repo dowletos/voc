@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"announce" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:881;
+item="word" /LANG:"english" /TEXT:"cost" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1946;
+item="word" /LANG:"english" /TEXT:"escalate" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:628;
+item="word" /LANG:"english" /TEXT:"host" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:838;
+item="word" /LANG:"english" /TEXT:"initiative" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:661;
+item="word" /LANG:"english" /TEXT:"meaningful" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:444;
+item="word" /LANG:"english" /TEXT:"outage" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:464;
+item="word" /LANG:"english" /TEXT:"prevent" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1587;
+item="word" /LANG:"english" /TEXT:"push" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:2095;
+item="word" /LANG:"russian" /TEXT:"לור{א'}עü" /DICT:"HCP_RUS-ENG_001" /CHAR:13 /HEAD:583;
+item="word" /LANG:"russian" /TEXT:"מצום{ט'}עü" /DICT:"HCP_RUS-ENG_001" /CHAR:15 /HEAD:2165;
+
+[END]

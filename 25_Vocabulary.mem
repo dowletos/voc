@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"accuse" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:184;
+item="word" /LANG:"english" /TEXT:"consistent" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1633;
+item="word" /LANG:"english" /TEXT:"distinctive" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1050;
+item="word" /LANG:"english" /TEXT:"distinctly" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1051;
+item="word" /LANG:"english" /TEXT:"distinguish" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1052;
+item="word" /LANG:"english" /TEXT:"diverse" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1088;
+item="word" /LANG:"english" /TEXT:"genuine" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:227;
+item="word" /LANG:"english" /TEXT:"grief" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:677;
+item="word" /LANG:"english" /TEXT:"integrity" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:842;
+item="word" /LANG:"english" /TEXT:"pleased" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1006;
+item="word" /LANG:"english" /TEXT:"precarious" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1422;
+item="word" /LANG:"english" /TEXT:"shoddy" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:990;
+item="word" /LANG:"english" /TEXT:"thriving" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:579;
+
+[END]

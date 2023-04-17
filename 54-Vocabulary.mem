@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"articulate" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1237;
+item="word" /LANG:"english" /TEXT:"articulated lorry" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1238;
+item="word" /LANG:"english" /TEXT:"associate" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1334;
+item="word" /LANG:"english" /TEXT:"association" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1336;
+item="word" /LANG:"english" /TEXT:"brainwash" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1101;
+item="word" /LANG:"english" /TEXT:"capture" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:217;
+item="word" /LANG:"english" /TEXT:"confuse" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1553;
+item="word" /LANG:"english" /TEXT:"lorry" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:811;
+item="word" /LANG:"english" /TEXT:"precedence" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1426;
+item="word" /LANG:"english" /TEXT:"rigidity" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1082;
+item="word" /LANG:"english" /TEXT:"stiff" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2451;
+item="word" /LANG:"english" /TEXT:"stifle" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2454;
+item="word" /LANG:"english" /TEXT:"stifling" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2455;
+item="word" /LANG:"english" /TEXT:"thorough" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:535;
+
+[END]

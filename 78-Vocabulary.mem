@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"advantage" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:368;
+item="word" /LANG:"english" /TEXT:"contaminate" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1696;
+item="word" /LANG:"english" /TEXT:"contamination" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1697;
+item="word" /LANG:"english" /TEXT:"keen" /DICT:"HCP_ENG-RUS_001" /CHAR:11 /HEAD:24;
+item="word" /LANG:"english" /TEXT:"proliferate" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1789;
+item="word" /LANG:"english" /TEXT:"proliferation" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1790;
+item="word" /LANG:"english" /TEXT:"prolific" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1791;
+item="word" /LANG:"english" /TEXT:"quaint" /DICT:"HCP_ENG-RUS_001" /CHAR:17 /HEAD:17;
+item="word" /LANG:"english" /TEXT:"spendthrift" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2011;
+item="word" /LANG:"english" /TEXT:"tertiary" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:403;
+
+[END]

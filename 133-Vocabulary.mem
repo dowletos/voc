@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"accusation" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:182;
+item="word" /LANG:"english" /TEXT:"accuse" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:184;
+item="word" /LANG:"english" /TEXT:"allege" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:635;
+item="word" /LANG:"english" /TEXT:"disclose" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:863;
+item="word" /LANG:"english" /TEXT:"disorder" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:966;
+item="word" /LANG:"english" /TEXT:"emerge" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:312;
+item="word" /LANG:"english" /TEXT:"facilities" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:28;
+item="word" /LANG:"english" /TEXT:"interim" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:893;
+item="word" /LANG:"english" /TEXT:"toll" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:801;
+item="word" /LANG:"english" /TEXT:"under..." /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:151;
+
+[END]

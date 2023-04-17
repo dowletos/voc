@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"capacity" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:180;
+item="word" /LANG:"english" /TEXT:"consideration" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1623;
+item="word" /LANG:"english" /TEXT:"deliberate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:374;
+item="word" /LANG:"english" /TEXT:"deliberation" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:376;
+item="word" /LANG:"english" /TEXT:"express" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:954;
+item="word" /LANG:"english" /TEXT:"purification" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:2072;
+item="word" /LANG:"english" /TEXT:"refine" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:481;
+item="word" /LANG:"english" /TEXT:"refined" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:482;
+item="word" /LANG:"english" /TEXT:"refinement" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:483;
+item="word" /LANG:"english" /TEXT:"understate" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:209;
+item="word" /LANG:"russian" /TEXT:"вним{а'}ние" /DICT:"HCP_RUS-ENG_001" /CHAR:3 /HEAD:728;
+item="word" /LANG:"russian" /TEXT:"спос{о'}бность" /DICT:"HCP_RUS-ENG_001" /CHAR:18 /HEAD:2191;
+item="word" /LANG:"russian" /TEXT:"утончённый" /DICT:"HCP_RUS-ENG_001" /CHAR:20 /HEAD:939;
+
+[END]

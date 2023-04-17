@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"artisan" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1245;
+item="word" /LANG:"english" /TEXT:"artwork" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1251;
+item="word" /LANG:"english" /TEXT:"fore" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:817;
+item="word" /LANG:"english" /TEXT:"reflect" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:489;
+item="word" /LANG:"english" /TEXT:"reflection" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:490;
+item="word" /LANG:"english" /TEXT:"shortcoming" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1030;
+item="word" /LANG:"english" /TEXT:"spurt" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2166;
+item="word" /LANG:"english" /TEXT:"startling" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2323;
+item="word" /LANG:"english" /TEXT:"well-dressed" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:305;
+item="word" /LANG:"english" /TEXT:"well-earned" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:306;
+
+[END]

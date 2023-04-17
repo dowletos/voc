@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"admit" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:330;
+item="word" /LANG:"english" /TEXT:"condemn" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1494;
+item="word" /LANG:"english" /TEXT:"condemnation" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1495;
+item="word" /LANG:"english" /TEXT:"denounce" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:452;
+item="word" /LANG:"english" /TEXT:"essentially" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:662;
+item="word" /LANG:"english" /TEXT:"inadequacy" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:295;
+item="word" /LANG:"english" /TEXT:"inadequate" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:296;
+item="word" /LANG:"english" /TEXT:"reopen" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:694;
+item="word" /LANG:"english" /TEXT:"reopening" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:695;
+item="word" /LANG:"english" /TEXT:"slam" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1402;
+item="word" /LANG:"english" /TEXT:"stress" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2621;
+item="word" /LANG:"english" /TEXT:"submission" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2760;
+item="word" /LANG:"english" /TEXT:"uncover" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:142;
+item="word" /LANG:"english" /TEXT:"unity" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:366;
+
+[END]

@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"beloved" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:488;
+item="word" /LANG:"english" /TEXT:"exclaim" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:828;
+item="word" /LANG:"english" /TEXT:"insist" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:761;
+item="word" /LANG:"english" /TEXT:"offset" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:174;
+item="word" /LANG:"english" /TEXT:"plausible" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:979;
+item="word" /LANG:"english" /TEXT:"redeem" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:422;
+item="word" /LANG:"english" /TEXT:"redemption" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:426;
+item="word" /LANG:"english" /TEXT:"run" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1386;
+item="word" /LANG:"english" /TEXT:"runaway" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1389;
+item="word" /LANG:"english" /TEXT:"stallion" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2260;
+item="word" /LANG:"english" /TEXT:"vicious" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:223;
+item="word" /LANG:"russian" /TEXT:"вскр{и'}кнуть" /DICT:"HCP_RUS-ENG_001" /CHAR:3 /HEAD:1293;
+
+[END]

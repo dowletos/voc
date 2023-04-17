@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"baby carriage" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:9;
+item="word" /LANG:"english" /TEXT:"birth control" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:656;
+item="word" /LANG:"english" /TEXT:"conceive" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1460;
+item="word" /LANG:"english" /TEXT:"conception" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1466;
+item="word" /LANG:"english" /TEXT:"infertility" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:570;
+item="word" /LANG:"english" /TEXT:"ins and outs" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:718;
+item="word" /LANG:"english" /TEXT:"insane" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:719;
+item="word" /LANG:"english" /TEXT:"meaningless" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:445;
+item="word" /LANG:"english" /TEXT:"roller coaster" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1208;
+item="word" /LANG:"english" /TEXT:"separate" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:727;
+item="word" /LANG:"russian" /TEXT:"разв{о'}д" /DICT:"HCP_RUS-ENG_001" /CHAR:17 /HEAD:167;
+
+[END]

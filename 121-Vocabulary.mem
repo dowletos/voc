@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"bury" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1468;
+item="word" /LANG:"english" /TEXT:"hatchet" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:256;
+item="word" /LANG:"english" /TEXT:"heartbreaking" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:360;
+item="word" /LANG:"english" /TEXT:"pick" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:773;
+item="word" /LANG:"english" /TEXT:"prior" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1650;
+item="word" /LANG:"english" /TEXT:"seemingly" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:577;
+item="word" /LANG:"english" /TEXT:"share" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:865;
+item="word" /LANG:"english" /TEXT:"solely" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1763;
+item="word" /LANG:"english" /TEXT:"tribute" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1152;
+item="word" /LANG:"english" /TEXT:"via" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:200;
+item="word" /LANG:"russian" /TEXT:"в{ы'}брать" /DICT:"HCP_RUS-ENG_001" /CHAR:3 /HEAD:1478;
+
+[END]

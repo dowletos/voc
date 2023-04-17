@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"bewildering" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:557;
+item="word" /LANG:"english" /TEXT:"concession" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1474;
+item="word" /LANG:"english" /TEXT:"credibility" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2155;
+item="word" /LANG:"english" /TEXT:"dire" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:790;
+item="word" /LANG:"english" /TEXT:"evolve" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:775;
+item="word" /LANG:"english" /TEXT:"lead time" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:259;
+item="word" /LANG:"english" /TEXT:"litigation" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:641;
+item="word" /LANG:"english" /TEXT:"overwhelm" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:645;
+item="word" /LANG:"english" /TEXT:"overwhelming" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:646;
+item="word" /LANG:"english" /TEXT:"reliance" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:611;
+
+[END]

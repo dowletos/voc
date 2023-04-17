@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"astonish" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1356;
+item="word" /LANG:"english" /TEXT:"astonishing" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1357;
+item="word" /LANG:"english" /TEXT:"carbon" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:229;
+item="word" /LANG:"english" /TEXT:"despair" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:574;
+item="word" /LANG:"english" /TEXT:"desperate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:576;
+item="word" /LANG:"english" /TEXT:"draw" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1352;
+item="word" /LANG:"english" /TEXT:"glimmer" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:366;
+item="word" /LANG:"english" /TEXT:"joint" /DICT:"HCP_ENG-RUS_001" /CHAR:10 /HEAD:134;
+item="word" /LANG:"english" /TEXT:"odd" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:113;
+item="word" /LANG:"english" /TEXT:"reminiscences" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:648;
+item="word" /LANG:"english" /TEXT:"scorching" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:356;
+item="word" /LANG:"english" /TEXT:"stalk" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2257;
+item="word" /LANG:"english" /TEXT:"sturdy" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2720;
+
+[END]

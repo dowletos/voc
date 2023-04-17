@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"aesthetic" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:412;
+item="word" /LANG:"english" /TEXT:"contrary" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1748;
+item="word" /LANG:"english" /TEXT:"discipline" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:859;
+item="word" /LANG:"english" /TEXT:"inspiration" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:776;
+item="word" /LANG:"english" /TEXT:"inspire" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:777;
+item="word" /LANG:"english" /TEXT:"inspired" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:778;
+item="word" /LANG:"english" /TEXT:"medieval" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:498;
+item="word" /LANG:"english" /TEXT:"perception" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:533;
+item="word" /LANG:"english" /TEXT:"popularize" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1226;
+item="word" /LANG:"english" /TEXT:"retreat" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:930;
+item="word" /LANG:"english" /TEXT:"takeout" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:61;
+item="word" /LANG:"russian" /TEXT:"напр{о'}тив" /DICT:"HCP_RUS-ENG_001" /CHAR:14 /HEAD:621;
+
+[END]

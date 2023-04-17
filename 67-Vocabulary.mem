@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"clothes peg" /TEXT:"clothes pin" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1045;
+item="word" /LANG:"english" /TEXT:"fade" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:43;
+item="word" /LANG:"english" /TEXT:"grain" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:551;
+item="word" /LANG:"english" /TEXT:"gulp" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:818;
+item="word" /LANG:"english" /TEXT:"nomadic" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:392;
+item="word" /LANG:"english" /TEXT:"pin" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:843;
+item="word" /LANG:"english" /TEXT:"preclude" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1441;
+item="word" /LANG:"english" /TEXT:"tribal" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1146;
+item="word" /LANG:"english" /TEXT:"trump" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1239;
+item="word" /LANG:"english" /TEXT:"vestige" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:182;
+item="word" /LANG:"russian" /TEXT:"з{а'}лпом" /DICT:"HCP_RUS-ENG_001" /CHAR:8 /HEAD:591;
+
+[END]

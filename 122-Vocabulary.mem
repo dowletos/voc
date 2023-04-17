@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"affection" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:422;
+item="word" /LANG:"english" /TEXT:"cope" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1844;
+item="word" /LANG:"english" /TEXT:"dedicated" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:275;
+item="word" /LANG:"english" /TEXT:"embark" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:283;
+item="word" /LANG:"english" /TEXT:"hilarious" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:589;
+item="word" /LANG:"english" /TEXT:"late" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:155;
+item="word" /LANG:"english" /TEXT:"precious" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1431;
+item="word" /LANG:"english" /TEXT:"rest" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:864;
+item="word" /LANG:"english" /TEXT:"state" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2329;
+item="word" /LANG:"english" /TEXT:"stated" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2331;
+item="word" /LANG:"russian" /TEXT:"пок{о'}йный" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:1992;
+
+[END]

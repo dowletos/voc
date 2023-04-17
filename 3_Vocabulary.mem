@@ -1,0 +1,20 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"attribute" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1431;
+item="word" /LANG:"english" /TEXT:"clearly" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:973;
+item="word" /LANG:"english" /TEXT:"consciousness" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1604;
+item="word" /LANG:"english" /TEXT:"controversy" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1772;
+item="word" /LANG:"english" /TEXT:"courage" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2029;
+item="word" /LANG:"english" /TEXT:"deter" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:611;
+item="word" /LANG:"english" /TEXT:"deteriorate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:613;
+item="word" /LANG:"english" /TEXT:"deterioration" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:614;
+item="word" /LANG:"english" /TEXT:"exaggerate" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:783;
+item="word" /LANG:"english" /TEXT:"fault" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:198;
+item="word" /LANG:"english" /TEXT:"frank" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:990;
+item="word" /LANG:"english" /TEXT:"pattern" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:361;
+item="word" /LANG:"english" /TEXT:"predict" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1455;
+item="word" /LANG:"english" /TEXT:"regain" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:523;
+item="word" /LANG:"english" /TEXT:"sake" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:70;
+item="word" /LANG:"english" /TEXT:"stem" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2404;
+
+[END]

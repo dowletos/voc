@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"recall" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:313;
+item="word" /LANG:"english" /TEXT:"refrain" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:499;
+item="word" /LANG:"english" /TEXT:"rigid" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1081;
+item="word" /LANG:"english" /TEXT:"shortage" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1026;
+item="word" /LANG:"english" /TEXT:"smuggle" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1598;
+item="word" /LANG:"english" /TEXT:"smuggler" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1599;
+item="word" /LANG:"english" /TEXT:"smuggling" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1600;
+item="word" /LANG:"english" /TEXT:"stowaway" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2558;
+item="word" /LANG:"english" /TEXT:"tenant" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:334;
+item="word" /LANG:"english" /TEXT:"trade-off" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:975;
+item="word" /LANG:"english" /TEXT:"vast" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:84;
+
+[END]

@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"blatant" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:734;
+item="word" /LANG:"english" /TEXT:"blatantly" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:735;
+item="word" /LANG:"english" /TEXT:"enforce" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:430;
+item="word" /LANG:"english" /TEXT:"law-abiding" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:203;
+item="word" /LANG:"english" /TEXT:"onerous" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:262;
+item="word" /LANG:"english" /TEXT:"routine" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1303;
+item="word" /LANG:"english" /TEXT:"undercut" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:162;
+item="word" /LANG:"english" /TEXT:"underdeveloped" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:163;
+item="word" /LANG:"english" /TEXT:"underdone" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:165;
+item="word" /LANG:"english" /TEXT:"underrate" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:195;
+item="word" /LANG:"english" /TEXT:"undersell" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:199;
+
+[END]

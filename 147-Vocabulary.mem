@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"background" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:32;
+item="word" /LANG:"english" /TEXT:"clarification" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:927;
+item="word" /LANG:"english" /TEXT:"insult" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:820;
+item="word" /LANG:"english" /TEXT:"insulting" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:821;
+item="word" /LANG:"english" /TEXT:"profess" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1737;
+item="word" /LANG:"english" /TEXT:"request" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:779;
+item="word" /LANG:"english" /TEXT:"ruler" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1372;
+item="word" /LANG:"english" /TEXT:"scarce" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:275;
+item="word" /LANG:"english" /TEXT:"sight" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1175;
+item="word" /LANG:"english" /TEXT:"timid" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:696;
+item="word" /LANG:"russian" /TEXT:"испов{е'}довать" /DICT:"HCP_RUS-ENG_001" /CHAR:9 /HEAD:759;
+
+[END]

@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"gainful" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:25;
+item="word" /LANG:"english" /TEXT:"imprinted" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:264;
+item="word" /LANG:"english" /TEXT:"imprison" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:265;
+item="word" /LANG:"english" /TEXT:"ingenious" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:628;
+item="word" /LANG:"english" /TEXT:"ledger" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:302;
+item="word" /LANG:"english" /TEXT:"mockery" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:982;
+item="word" /LANG:"english" /TEXT:"premium" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1500;
+item="word" /LANG:"english" /TEXT:"reprieve" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:751;
+item="word" /LANG:"english" /TEXT:"soaring" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1681;
+item="word" /LANG:"english" /TEXT:"subjugate" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2751;
+
+[END]

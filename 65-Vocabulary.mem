@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"apparently" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1026;
+item="word" /LANG:"english" /TEXT:"confront" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1551;
+item="word" /LANG:"english" /TEXT:"confused" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1554;
+item="word" /LANG:"english" /TEXT:"diminish" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:754;
+item="word" /LANG:"english" /TEXT:"diminished" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:755;
+item="word" /LANG:"english" /TEXT:"hinge" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:608;
+item="word" /LANG:"english" /TEXT:"outcome" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:474;
+item="word" /LANG:"english" /TEXT:"sticky" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2450;
+item="word" /LANG:"english" /TEXT:"underscore" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:196;
+item="word" /LANG:"english" /TEXT:"undersecretary" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:198;
+item="word" /LANG:"english" /TEXT:"undersell" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:199;
+
+[END]

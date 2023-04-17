@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"amendment" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:749;
+item="word" /LANG:"english" /TEXT:"ballot" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:126;
+item="word" /LANG:"english" /TEXT:"bulletin" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1395;
+item="word" /LANG:"english" /TEXT:"deliberation" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:376;
+item="word" /LANG:"english" /TEXT:"disseminate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1023;
+item="word" /LANG:"english" /TEXT:"oblige" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:35;
+item="word" /LANG:"english" /TEXT:"overrun" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:613;
+item="word" /LANG:"english" /TEXT:"shorthand" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1036;
+item="word" /LANG:"english" /TEXT:"shorthand typist" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1038;
+item="word" /LANG:"english" /TEXT:"sold out" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1761;
+item="word" /LANG:"english" /TEXT:"sole" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1762;
+item="word" /LANG:"english" /TEXT:"turnout" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1345;
+
+[END]

@@ -1,0 +1,21 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"ancestry" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:829;
+item="word" /LANG:"english" /TEXT:"animosity" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:869;
+item="word" /LANG:"english" /TEXT:"barbed wire" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:202;
+item="word" /LANG:"english" /TEXT:"benevolent" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:504;
+item="word" /LANG:"english" /TEXT:"camp" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:106;
+item="word" /LANG:"english" /TEXT:"campus" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:114;
+item="word" /LANG:"english" /TEXT:"craft" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2097;
+item="word" /LANG:"english" /TEXT:"drown" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1442;
+item="word" /LANG:"english" /TEXT:"grace" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:536;
+item="word" /LANG:"english" /TEXT:"oriental" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:413;
+item="word" /LANG:"english" /TEXT:"peril" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:556;
+item="word" /LANG:"english" /TEXT:"predominant" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1461;
+item="word" /LANG:"english" /TEXT:"prosper" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1868;
+item="word" /LANG:"english" /TEXT:"settle" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:781;
+item="word" /LANG:"english" /TEXT:"temper" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:308;
+item="word" /LANG:"english" /TEXT:"vague" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:24;
+item="word" /LANG:"english" /TEXT:"wage" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:14;
+
+[END]

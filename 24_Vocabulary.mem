@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"backward" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:55;
+item="word" /LANG:"english" /TEXT:"blacksmith" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:712;
+item="word" /LANG:"english" /TEXT:"brim" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1229;
+item="word" /LANG:"english" /TEXT:"catcall" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:386;
+item="word" /LANG:"english" /TEXT:"convey" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1801;
+item="word" /LANG:"english" /TEXT:"effortless" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:145;
+item="word" /LANG:"english" /TEXT:"furious" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:1243;
+item="word" /LANG:"english" /TEXT:"notoriously" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:504;
+item="word" /LANG:"english" /TEXT:"overwhelm" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:645;
+item="word" /LANG:"english" /TEXT:"straw" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2597;
+item="word" /LANG:"english" /TEXT:"thrill" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:575;
+item="word" /LANG:"english" /TEXT:"valiant" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:36;
+item="word" /LANG:"english" /TEXT:"vividly" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:349;
+item="word" /LANG:"english" /TEXT:"wheedle" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:367;
+
+[END]

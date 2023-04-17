@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"ashore" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1276;
+item="word" /LANG:"english" /TEXT:"coastal" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1093;
+item="word" /LANG:"english" /TEXT:"confine" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1535;
+item="word" /LANG:"english" /TEXT:"contain" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1692;
+item="word" /LANG:"english" /TEXT:"deploy" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:485;
+item="word" /LANG:"english" /TEXT:"depopulate" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:486;
+item="word" /LANG:"english" /TEXT:"divine" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1102;
+item="word" /LANG:"english" /TEXT:"enthusiastic" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:507;
+item="word" /LANG:"english" /TEXT:"fleet" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:607;
+item="word" /LANG:"english" /TEXT:"harassed" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:173;
+item="word" /LANG:"english" /TEXT:"stranded" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2577;
+
+[END]

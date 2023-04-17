@@ -1,0 +1,20 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"cease" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:453;
+item="word" /LANG:"english" /TEXT:"denounce" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:452;
+item="word" /LANG:"english" /TEXT:"destitute" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:590;
+item="word" /LANG:"english" /TEXT:"dull" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1504;
+item="word" /LANG:"english" /TEXT:"maternity" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:367;
+item="word" /LANG:"english" /TEXT:"nondescript" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:409;
+item="word" /LANG:"english" /TEXT:"one-off" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:259;
+item="word" /LANG:"english" /TEXT:"proceed" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1703;
+item="word" /LANG:"english" /TEXT:"rupture" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1410;
+item="word" /LANG:"english" /TEXT:"sleeve" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1452;
+item="word" /LANG:"english" /TEXT:"superficial" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2954;
+item="word" /LANG:"english" /TEXT:"tarnish" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:136;
+item="word" /LANG:"english" /TEXT:"tier" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:650;
+item="word" /LANG:"english" /TEXT:"unlikely" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:388;
+item="word" /LANG:"english" /TEXT:"upheaval" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:572;
+item="word" /LANG:"english" /TEXT:"wavy" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:200;
+
+[END]

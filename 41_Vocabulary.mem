@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"burn" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1457;
+item="word" /LANG:"english" /TEXT:"confide" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1528;
+item="word" /LANG:"english" /TEXT:"cross-purposes" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2264;
+item="word" /LANG:"english" /TEXT:"crosswalk" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2269;
+item="word" /LANG:"english" /TEXT:"grab" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:535;
+item="word" /LANG:"english" /TEXT:"hang" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:144;
+item="word" /LANG:"english" /TEXT:"impediment" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:198;
+item="word" /LANG:"english" /TEXT:"increment" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:397;
+item="word" /LANG:"english" /TEXT:"liaison" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:430;
+item="word" /LANG:"english" /TEXT:"perseverance" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:604;
+item="word" /LANG:"english" /TEXT:"persevere" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:605;
+
+[END]

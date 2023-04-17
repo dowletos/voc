@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"accustom" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:188;
+item="word" /LANG:"english" /TEXT:"generous" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:203;
+item="word" /LANG:"english" /TEXT:"homogeneous" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:742;
+item="word" /LANG:"english" /TEXT:"misbehave" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:853;
+item="word" /LANG:"english" /TEXT:"mismanage" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:893;
+item="word" /LANG:"english" /TEXT:"mismanagement" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:894;
+item="word" /LANG:"english" /TEXT:"penalize" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:471;
+item="word" /LANG:"english" /TEXT:"penalty" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:473;
+item="word" /LANG:"english" /TEXT:"reprieve" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:751;
+item="word" /LANG:"english" /TEXT:"reprimand" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:752;
+
+[END]

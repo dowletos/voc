@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"call girl" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:75;
+item="word" /LANG:"english" /TEXT:"clash" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:931;
+item="word" /LANG:"english" /TEXT:"engagement" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:436;
+item="word" /LANG:"english" /TEXT:"justify" /DICT:"HCP_ENG-RUS_001" /CHAR:10 /HEAD:242;
+item="word" /LANG:"english" /TEXT:"long-standing" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:776;
+item="word" /LANG:"english" /TEXT:"measure" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:454;
+item="word" /LANG:"english" /TEXT:"miner" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:792;
+item="word" /LANG:"english" /TEXT:"provisional" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1911;
+item="word" /LANG:"english" /TEXT:"tension" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:360;
+item="word" /LANG:"english" /TEXT:"vest" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:179;
+item="word" /LANG:"english" /TEXT:"withdraw" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:604;
+item="word" /LANG:"russian" /TEXT:"במי" /DICT:"HCP_RUS-ENG_001" /CHAR:2 /HEAD:687;
+item="word" /LANG:"russian" /TEXT:"ל{ו'}נא" /DICT:"HCP_RUS-ENG_001" /CHAR:13 /HEAD:480;
+item="word" /LANG:"russian" /TEXT:"ףיע{ט'}" /DICT:"HCP_RUS-ENG_001" /CHAR:20 /HEAD:324;
+
+[END]

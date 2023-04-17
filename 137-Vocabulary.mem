@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"ally" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:670;
+item="word" /LANG:"english" /TEXT:"cornerstone" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1884;
+item="word" /LANG:"english" /TEXT:"deepen" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:283;
+item="word" /LANG:"english" /TEXT:"deepfreeze" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:284;
+item="word" /LANG:"english" /TEXT:"encourage" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:390;
+item="word" /LANG:"english" /TEXT:"intimate" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:955;
+item="word" /LANG:"english" /TEXT:"mend" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:550;
+item="word" /LANG:"english" /TEXT:"rebuild" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:308;
+item="word" /LANG:"english" /TEXT:"resilience" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:826;
+item="word" /LANG:"english" /TEXT:"resilient" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:827;
+item="word" /LANG:"russian" /TEXT:"убед{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:20 /HEAD:9;
+
+[END]

@@ -1,0 +1,23 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"acquire" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:217;
+item="word" /LANG:"english" /TEXT:"boost" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:990;
+item="word" /LANG:"english" /TEXT:"bound" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1046;
+item="word" /LANG:"english" /TEXT:"coincide" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1168;
+item="word" /LANG:"english" /TEXT:"consistent" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1633;
+item="word" /LANG:"english" /TEXT:"expertise" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:923;
+item="word" /LANG:"english" /TEXT:"flustered" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:702;
+item="word" /LANG:"english" /TEXT:"lathe" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:164;
+item="word" /LANG:"english" /TEXT:"permissible" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:586;
+item="word" /LANG:"english" /TEXT:"persistence" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:610;
+item="word" /LANG:"english" /TEXT:"persistent" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:611;
+item="word" /LANG:"english" /TEXT:"proverb" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1902;
+item="word" /LANG:"english" /TEXT:"recession" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:335;
+item="word" /LANG:"english" /TEXT:"scrape" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:391;
+item="word" /LANG:"english" /TEXT:"squeak" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2189;
+item="word" /LANG:"english" /TEXT:"swallow" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3082;
+item="word" /LANG:"english" /TEXT:"threaten" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:558;
+item="word" /LANG:"english" /TEXT:"workmate" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:697;
+item="word" /LANG:"english" /TEXT:"workout" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:698;
+
+[END]

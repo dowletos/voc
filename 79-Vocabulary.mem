@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"amid" /TEXT:"amidst" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:761;
+item="word" /LANG:"english" /TEXT:"amiss" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:762;
+item="word" /LANG:"english" /TEXT:"apprehension" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1070;
+item="word" /LANG:"english" /TEXT:"fuel" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:1182;
+item="word" /LANG:"english" /TEXT:"grasp" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:594;
+item="word" /LANG:"english" /TEXT:"pertaining" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:644;
+item="word" /LANG:"english" /TEXT:"though" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:542;
+item="word" /LANG:"english" /TEXT:"undertone" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:216;
+item="word" /LANG:"english" /TEXT:"undervalue" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:217;
+item="word" /LANG:"english" /TEXT:"underweight" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:220;
+item="word" /LANG:"english" /TEXT:"underworld" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:221;
+
+[END]

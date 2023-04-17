@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"boisterous" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:923;
+item="word" /LANG:"english" /TEXT:"conflagration" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1544;
+item="word" /LANG:"english" /TEXT:"drunken" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1457;
+item="word" /LANG:"english" /TEXT:"erratic" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:619;
+item="word" /LANG:"english" /TEXT:"salvage" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:111;
+item="word" /LANG:"english" /TEXT:"salvage vessel" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:112;
+item="word" /LANG:"english" /TEXT:"stall" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2258;
+item="word" /LANG:"english" /TEXT:"turmoil" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1334;
+item="word" /LANG:"english" /TEXT:"vivid" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:348;
+item="word" /LANG:"english" /TEXT:"vividly" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:349;
+item="word" /LANG:"russian" /TEXT:"ш{у'}мный" /DICT:"HCP_RUS-ENG_001" /CHAR:25 /HEAD:450;
+
+[END]

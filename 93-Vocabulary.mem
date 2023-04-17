@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"disincentive" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:937;
+item="word" /LANG:"english" /TEXT:"impede" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:197;
+item="word" /LANG:"english" /TEXT:"impediment" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:198;
+item="word" /LANG:"english" /TEXT:"inhibit" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:646;
+item="word" /LANG:"english" /TEXT:"inhibiting" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:648;
+item="word" /LANG:"english" /TEXT:"inhospitable" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:650;
+item="word" /LANG:"english" /TEXT:"mark-up" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:279;
+item="word" /LANG:"english" /TEXT:"overact" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:553;
+item="word" /LANG:"english" /TEXT:"proliferation" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1790;
+item="word" /LANG:"english" /TEXT:"resurgence" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:895;
+item="word" /LANG:"english" /TEXT:"surcharge" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3012;
+
+[END]

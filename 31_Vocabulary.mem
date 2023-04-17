@@ -1,0 +1,19 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"condone" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1508;
+item="word" /LANG:"english" /TEXT:"deploy" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:485;
+item="word" /LANG:"english" /TEXT:"effectively" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:133;
+item="word" /LANG:"english" /TEXT:"envoy" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:548;
+item="word" /LANG:"english" /TEXT:"eventually" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:753;
+item="word" /LANG:"english" /TEXT:"expedition" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:908;
+item="word" /LANG:"english" /TEXT:"expeditionary force" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:909;
+item="word" /LANG:"english" /TEXT:"obligation" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:33;
+item="word" /LANG:"english" /TEXT:"punitive" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:2047;
+item="word" /LANG:"english" /TEXT:"puppet" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:2057;
+item="word" /LANG:"english" /TEXT:"reluctant" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:629;
+item="word" /LANG:"english" /TEXT:"stipulate" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2478;
+item="word" /LANG:"english" /TEXT:"stipulation" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2479;
+item="word" /LANG:"english" /TEXT:"vain" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:27;
+item="word" /LANG:"english" /TEXT:"vainly" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:28;
+
+[END]

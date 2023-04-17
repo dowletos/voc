@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"delighted" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:383;
+item="word" /LANG:"english" /TEXT:"delightful" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:384;
+item="word" /LANG:"english" /TEXT:"disagreeable" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:826;
+item="word" /LANG:"english" /TEXT:"inward" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1047;
+item="word" /LANG:"english" /TEXT:"low-fat" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:857;
+item="word" /LANG:"english" /TEXT:"meal time" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:439;
+item="word" /LANG:"english" /TEXT:"mind" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:782;
+item="word" /LANG:"english" /TEXT:"scoop" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:350;
+item="word" /LANG:"english" /TEXT:"surpass" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3037;
+item="word" /LANG:"english" /TEXT:"vanish" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:61;
+item="word" /LANG:"russian" /TEXT:"непревзойдённый" /DICT:"HCP_RUS-ENG_001" /CHAR:14 /HEAD:1597;
+item="word" /LANG:"russian" /TEXT:"присм{а'}тривать" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:3643;
+
+[END]

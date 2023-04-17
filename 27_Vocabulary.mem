@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"attire" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1424;
+item="word" /LANG:"english" /TEXT:"beg" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:434;
+item="word" /LANG:"english" /TEXT:"commend" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1286;
+item="word" /LANG:"english" /TEXT:"commendable" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1287;
+item="word" /LANG:"english" /TEXT:"dabble" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:8;
+item="word" /LANG:"english" /TEXT:"elated" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:189;
+item="word" /LANG:"english" /TEXT:"fitting" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:522;
+item="word" /LANG:"english" /TEXT:"fitting room" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:523;
+item="word" /LANG:"english" /TEXT:"grumble" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:761;
+item="word" /LANG:"english" /TEXT:"hasty" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:251;
+item="word" /LANG:"english" /TEXT:"homicide" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:737;
+item="word" /LANG:"english" /TEXT:"waitress" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:32;
+
+[END]

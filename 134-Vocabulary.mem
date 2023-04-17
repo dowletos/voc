@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"death toll" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:178;
+item="word" /LANG:"english" /TEXT:"decent" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:224;
+item="word" /LANG:"english" /TEXT:"decently" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:225;
+item="word" /LANG:"english" /TEXT:"expertise" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:923;
+item="word" /LANG:"english" /TEXT:"minor" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:823;
+item="word" /LANG:"english" /TEXT:"offence" /TEXT:"offense" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:138;
+item="word" /LANG:"english" /TEXT:"pace" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:9;
+item="word" /LANG:"english" /TEXT:"payroll" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:388;
+item="word" /LANG:"english" /TEXT:"prominently" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1800;
+item="word" /LANG:"english" /TEXT:"remark" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:638;
+item="word" /LANG:"english" /TEXT:"sustainable" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3075;
+item="word" /LANG:"english" /TEXT:"underage" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:152;
+
+[END]

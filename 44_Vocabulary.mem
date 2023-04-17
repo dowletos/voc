@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"adverse" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:378;
+item="word" /LANG:"english" /TEXT:"bonus" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:961;
+item="word" /LANG:"english" /TEXT:"breakdown" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1157;
+item="word" /LANG:"english" /TEXT:"breakdown service" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1158;
+item="word" /LANG:"english" /TEXT:"burden" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1437;
+item="word" /LANG:"english" /TEXT:"destitute" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:590;
+item="word" /LANG:"english" /TEXT:"esteem" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:672;
+item="word" /LANG:"english" /TEXT:"mandate" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:167;
+item="word" /LANG:"english" /TEXT:"premium" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1500;
+item="word" /LANG:"english" /TEXT:"solicit" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1766;
+item="word" /LANG:"english" /TEXT:"solicitor" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1767;
+item="word" /LANG:"english" /TEXT:"strive" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2655;
+
+[END]

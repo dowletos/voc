@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"abundance" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:104;
+item="word" /LANG:"english" /TEXT:"adolescent" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:337;
+item="word" /LANG:"english" /TEXT:"deviation" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:642;
+item="word" /LANG:"english" /TEXT:"discourage" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:884;
+item="word" /LANG:"english" /TEXT:"discouragement" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:885;
+item="word" /LANG:"english" /TEXT:"disparaging" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:973;
+item="word" /LANG:"english" /TEXT:"judicious" /DICT:"HCP_ENG-RUS_001" /CHAR:10 /HEAD:180;
+item="word" /LANG:"english" /TEXT:"recall" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:313;
+item="word" /LANG:"english" /TEXT:"retention" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:911;
+item="word" /LANG:"english" /TEXT:"straightforward" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2568;
+item="word" /LANG:"english" /TEXT:"wane" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:70;
+
+[END]

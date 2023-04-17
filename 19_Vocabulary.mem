@@ -1,0 +1,21 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"anxious" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:979;
+item="word" /LANG:"english" /TEXT:"bale" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:108;
+item="word" /LANG:"english" /TEXT:"bewildered" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:556;
+item="word" /LANG:"english" /TEXT:"compete" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1380;
+item="word" /LANG:"english" /TEXT:"decanter" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:212;
+item="word" /LANG:"english" /TEXT:"dismantle" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:957;
+item="word" /LANG:"english" /TEXT:"incompetent" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:369;
+item="word" /LANG:"english" /TEXT:"itch" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1150;
+item="word" /LANG:"english" /TEXT:"itchy" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1151;
+item="word" /LANG:"english" /TEXT:"midst" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:710;
+item="word" /LANG:"english" /TEXT:"stingy" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2471;
+item="word" /LANG:"english" /TEXT:"till" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:667;
+item="word" /LANG:"english" /TEXT:"turn" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1335;
+item="word" /LANG:"english" /TEXT:"welder" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:290;
+item="word" /LANG:"english" /TEXT:"welding" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:291;
+item="word" /LANG:"russian" /TEXT:"переверн{у'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:376;
+item="word" /LANG:"russian" /TEXT:"скуп{о'}й" /DICT:"HCP_RUS-ENG_001" /CHAR:18 /HEAD:1129;
+
+[END]

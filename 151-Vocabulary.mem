@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"closely" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1031;
+item="word" /LANG:"english" /TEXT:"conqueror" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1597;
+item="word" /LANG:"english" /TEXT:"disprove" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1006;
+item="word" /LANG:"english" /TEXT:"monitor" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:1071;
+item="word" /LANG:"english" /TEXT:"nonetheless" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:413;
+item="word" /LANG:"english" /TEXT:"similarly" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1221;
+item="word" /LANG:"english" /TEXT:"unfold" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:294;
+item="word" /LANG:"english" /TEXT:"unforeseen" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:296;
+item="word" /LANG:"english" /TEXT:"unfortunate" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:300;
+item="word" /LANG:"russian" /TEXT:"пр{и'}стальный" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:3667;
+
+[END]

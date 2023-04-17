@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"acceptance" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:128;
+item="word" /LANG:"english" /TEXT:"countryman" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2017;
+item="word" /LANG:"english" /TEXT:"effort" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:144;
+item="word" /LANG:"english" /TEXT:"foster" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:939;
+item="word" /LANG:"english" /TEXT:"inclusion" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:357;
+item="word" /LANG:"english" /TEXT:"intermediary" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:903;
+item="word" /LANG:"english" /TEXT:"lead" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:244;
+item="word" /LANG:"english" /TEXT:"outstanding" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:532;
+item="word" /LANG:"english" /TEXT:"razor" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:219;
+item="word" /LANG:"english" /TEXT:"topical" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:851;
+
+[END]

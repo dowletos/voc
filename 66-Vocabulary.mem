@@ -1,0 +1,17 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"contraction" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1740;
+item="word" /LANG:"english" /TEXT:"converge" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1789;
+item="word" /LANG:"english" /TEXT:"offset" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:174;
+item="word" /LANG:"english" /TEXT:"overshadow" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:617;
+item="word" /LANG:"english" /TEXT:"peg" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:456;
+item="word" /LANG:"english" /TEXT:"precious" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1431;
+item="word" /LANG:"english" /TEXT:"spurious" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2164;
+item="word" /LANG:"english" /TEXT:"toss" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:883;
+item="word" /LANG:"english" /TEXT:"tot" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:884;
+item="word" /LANG:"english" /TEXT:"valve" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:51;
+item="word" /LANG:"english" /TEXT:"varnish" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:78;
+item="word" /LANG:"english" /TEXT:"velocity" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:118;
+item="word" /LANG:"russian" /TEXT:"компенс{и'}ровать" /DICT:"HCP_RUS-ENG_001" /CHAR:11 /HEAD:1065;
+
+[END]

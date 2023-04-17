@@ -1,0 +1,20 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"astonish" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1356;
+item="word" /LANG:"english" /TEXT:"concession" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1474;
+item="word" /LANG:"english" /TEXT:"concessionary" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1476;
+item="word" /LANG:"english" /TEXT:"conciliation" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1477;
+item="word" /LANG:"english" /TEXT:"contempt" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1702;
+item="word" /LANG:"english" /TEXT:"contend" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1705;
+item="word" /LANG:"english" /TEXT:"distract" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1057;
+item="word" /LANG:"english" /TEXT:"distress" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1061;
+item="word" /LANG:"english" /TEXT:"distressing" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1062;
+item="word" /LANG:"english" /TEXT:"distress signal" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1063;
+item="word" /LANG:"english" /TEXT:"insult" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:820;
+item="word" /LANG:"english" /TEXT:"majesty" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:103;
+item="word" /LANG:"english" /TEXT:"misleading" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:891;
+item="word" /LANG:"english" /TEXT:"seed" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:570;
+item="word" /LANG:"english" /TEXT:"segregate" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:586;
+item="word" /LANG:"english" /TEXT:"struggle" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2675;
+
+[END]

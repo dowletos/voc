@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"consolidate" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1636;
+item="word" /LANG:"english" /TEXT:"contemporary" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1701;
+item="word" /LANG:"english" /TEXT:"costly" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1956;
+item="word" /LANG:"english" /TEXT:"cost price" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1958;
+item="word" /LANG:"english" /TEXT:"course" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2033;
+item="word" /LANG:"english" /TEXT:"exterminate" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:977;
+item="word" /LANG:"english" /TEXT:"extermination" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:978;
+item="word" /LANG:"english" /TEXT:"market value" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:275;
+item="word" /LANG:"english" /TEXT:"pleased" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1006;
+item="word" /LANG:"english" /TEXT:"surpass" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3037;
+item="word" /LANG:"english" /TEXT:"torture" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:880;
+
+[END]

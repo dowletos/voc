@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"aground" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:516;
+item="word" /LANG:"english" /TEXT:"feat" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:225;
+item="word" /LANG:"english" /TEXT:"fickle" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:334;
+item="word" /LANG:"english" /TEXT:"handful" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:119;
+item="word" /LANG:"english" /TEXT:"invincible" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1033;
+item="word" /LANG:"english" /TEXT:"mere" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:587;
+item="word" /LANG:"english" /TEXT:"overthrow" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:637;
+item="word" /LANG:"english" /TEXT:"Roman" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1218;
+item="word" /LANG:"english" /TEXT:"second-hand" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:523;
+item="word" /LANG:"english" /TEXT:"stepping stone" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2417;
+item="word" /LANG:"russian" /TEXT:"лишь" /DICT:"HCP_RUS-ENG_001" /CHAR:12 /HEAD:463;
+
+[END]

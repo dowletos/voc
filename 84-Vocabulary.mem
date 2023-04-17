@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"leap" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:273;
+item="word" /LANG:"english" /TEXT:"output" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:512;
+item="word" /LANG:"english" /TEXT:"overthrow" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:637;
+item="word" /LANG:"english" /TEXT:"prevent" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1587;
+item="word" /LANG:"english" /TEXT:"prodigious" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1722;
+item="word" /LANG:"english" /TEXT:"prodigy" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1723;
+item="word" /LANG:"english" /TEXT:"promulgate" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1814;
+item="word" /LANG:"english" /TEXT:"prosperous" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1870;
+item="word" /LANG:"english" /TEXT:"radical" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:49;
+item="word" /LANG:"english" /TEXT:"resolute" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:832;
+
+[END]

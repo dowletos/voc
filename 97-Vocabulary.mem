@@ -1,0 +1,15 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"adversary" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:377;
+item="word" /LANG:"english" /TEXT:"adverse" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:378;
+item="word" /LANG:"english" /TEXT:"anonymity" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:903;
+item="word" /LANG:"english" /TEXT:"chiefly" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:723;
+item="word" /LANG:"english" /TEXT:"Chief of Staff" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:724;
+item="word" /LANG:"english" /TEXT:"distrust" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1072;
+item="word" /LANG:"english" /TEXT:"impair" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:181;
+item="word" /LANG:"english" /TEXT:"impaired" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:182;
+item="word" /LANG:"english" /TEXT:"presuppose" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1571;
+item="word" /LANG:"english" /TEXT:"presupposition" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1572;
+item="word" /LANG:"english" /TEXT:"skirt" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1372;
+
+[END]

@@ -1,0 +1,14 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"assignment" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1326;
+item="word" /LANG:"english" /TEXT:"Christianity" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:806;
+item="word" /LANG:"english" /TEXT:"compete" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1380;
+item="word" /LANG:"english" /TEXT:"cooperate" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1836;
+item="word" /LANG:"english" /TEXT:"emergence" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:313;
+item="word" /LANG:"english" /TEXT:"encounter" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:389;
+item="word" /LANG:"english" /TEXT:"innovation" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:696;
+item="word" /LANG:"english" /TEXT:"major" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:104;
+item="word" /LANG:"english" /TEXT:"origin" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:416;
+item="word" /LANG:"russian" /TEXT:"кр{у'}пный" /DICT:"HCP_RUS-ENG_001" /CHAR:11 /HEAD:1876;
+
+[END]

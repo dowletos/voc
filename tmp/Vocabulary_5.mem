@@ -1,0 +1,24 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"bureaucracy" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1439;
+item="word" /LANG:"english" /TEXT:"crew" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2198;
+item="word" /LANG:"english" /TEXT:"edict" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:107;
+item="word" /LANG:"english" /TEXT:"expedient" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:906;
+item="word" /LANG:"english" /TEXT:"flee" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:604;
+item="word" /LANG:"english" /TEXT:"haste" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:248;
+item="word" /LANG:"english" /TEXT:"hastily" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:250;
+item="word" /LANG:"english" /TEXT:"heed" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:416;
+item="word" /LANG:"english" /TEXT:"heedless" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:417;
+item="word" /LANG:"english" /TEXT:"inquisitive" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:715;
+item="word" /LANG:"english" /TEXT:"intermediary" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:903;
+item="word" /LANG:"english" /TEXT:"intruder" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:989;
+item="word" /LANG:"english" /TEXT:"intrusion" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:990;
+item="word" /LANG:"english" /TEXT:"naval" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:121;
+item="word" /LANG:"english" /TEXT:"officialdom" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:159;
+item="word" /LANG:"english" /TEXT:"overrule" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:612;
+item="word" /LANG:"english" /TEXT:"shipwreck" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:972;
+item="word" /LANG:"english" /TEXT:"survivor" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3059;
+item="word" /LANG:"english" /TEXT:"suspicion" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3071;
+item="word" /LANG:"english" /TEXT:"troublesome" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1213;
+
+[END]

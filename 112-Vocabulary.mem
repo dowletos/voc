@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"delight" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:382;
+item="word" /LANG:"english" /TEXT:"delighted" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:383;
+item="word" /LANG:"english" /TEXT:"delimit" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:385;
+item="word" /LANG:"english" /TEXT:"fitting" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:522;
+item="word" /LANG:"english" /TEXT:"hazard" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:290;
+item="word" /LANG:"english" /TEXT:"kite" /DICT:"HCP_ENG-RUS_001" /CHAR:11 /HEAD:125;
+item="word" /LANG:"english" /TEXT:"loose" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:792;
+item="word" /LANG:"english" /TEXT:"robust" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1176;
+item="word" /LANG:"english" /TEXT:"strip" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2647;
+item="word" /LANG:"english" /TEXT:"swoop" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3171;
+item="word" /LANG:"english" /TEXT:"trait" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1017;
+item="word" /LANG:"english" /TEXT:"vest" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:179;
+
+[END]

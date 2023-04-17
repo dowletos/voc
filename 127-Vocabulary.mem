@@ -1,0 +1,16 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"assail" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1305;
+item="word" /LANG:"english" /TEXT:"assailant" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1306;
+item="word" /LANG:"english" /TEXT:"assassinate" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1308;
+item="word" /LANG:"english" /TEXT:"assault" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1310;
+item="word" /LANG:"english" /TEXT:"casualty" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:374;
+item="word" /LANG:"english" /TEXT:"incident" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:339;
+item="word" /LANG:"english" /TEXT:"maintain" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:94;
+item="word" /LANG:"english" /TEXT:"patrol" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:351;
+item="word" /LANG:"english" /TEXT:"spokesman" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2089;
+item="word" /LANG:"english" /TEXT:"spokesperson" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2090;
+item="word" /LANG:"english" /TEXT:"storm" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2548;
+item="word" /LANG:"russian" /TEXT:"штурмов{а'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:25 /HEAD:436;
+
+[END]
