@@ -1,0 +1,32 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"aversion" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1525;
+item="word" /LANG:"english" /TEXT:"avert" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1526;
+item="word" /LANG:"english" /TEXT:"beneficial" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:500;
+item="word" /LANG:"english" /TEXT:"charge" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:608;
+item="word" /LANG:"english" /TEXT:"clause" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:947;
+item="word" /LANG:"english" /TEXT:"collision" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1212;
+item="word" /LANG:"english" /TEXT:"concession" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1474;
+item="word" /LANG:"english" /TEXT:"contribute" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1754;
+item="word" /LANG:"english" /TEXT:"disgusting" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:922;
+item="word" /LANG:"english" /TEXT:"dormitory" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1230;
+item="word" /LANG:"english" /TEXT:"edict" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:107;
+item="word" /LANG:"english" /TEXT:"expel" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:911;
+item="word" /LANG:"english" /TEXT:"expulsion" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:961;
+item="word" /LANG:"english" /TEXT:"henceforth" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:461;
+item="word" /LANG:"english" /TEXT:"intimate" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:955;
+item="word" /LANG:"english" /TEXT:"oppress" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:346;
+item="word" /LANG:"english" /TEXT:"point" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1102;
+item="word" /LANG:"english" /TEXT:"provision" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1910;
+item="word" /LANG:"english" /TEXT:"refuel" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:507;
+item="word" /LANG:"english" /TEXT:"refuelling" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:508;
+item="word" /LANG:"english" /TEXT:"reluctantly" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:630;
+item="word" /LANG:"english" /TEXT:"seclusion" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:510;
+item="word" /LANG:"english" /TEXT:"shelter" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:924;
+item="word" /LANG:"english" /TEXT:"supply" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2992;
+item="word" /LANG:"english" /TEXT:"undersigned" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:203;
+item="word" /LANG:"english" /TEXT:"whenever" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:379;
+item="word" /LANG:"russian" /TEXT:"изгн{а'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:9 /HEAD:150;
+item="word" /LANG:"russian" /TEXT:"ук{а'}зывать" /DICT:"HCP_RUS-ENG_001" /CHAR:20 /HEAD:332;
+
+[END]
