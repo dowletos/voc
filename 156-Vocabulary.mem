@@ -1,0 +1,33 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"accordingly" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:158;
+item="word" /LANG:"english" /TEXT:"conform" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1547;
+item="word" /LANG:"english" /TEXT:"credence" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2153;
+item="word" /LANG:"english" /TEXT:"determined" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:617;
+item="word" /LANG:"english" /TEXT:"devise" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:648;
+item="word" /LANG:"english" /TEXT:"discharge" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:855;
+item="word" /LANG:"english" /TEXT:"enlightened" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:466;
+item="word" /LANG:"english" /TEXT:"enquire" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:477;
+item="word" /LANG:"english" /TEXT:"envisage" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:546;
+item="word" /LANG:"english" /TEXT:"favourable" /TEXT:"favorable" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:204;
+item="word" /LANG:"english" /TEXT:"genial" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:211;
+item="word" /LANG:"english" /TEXT:"hereafter" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:478;
+item="word" /LANG:"english" /TEXT:"instruction" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:803;
+item="word" /LANG:"english" /TEXT:"largely" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:130;
+item="word" /LANG:"english" /TEXT:"outdo" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:478;
+item="word" /LANG:"english" /TEXT:"overthrow" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:637;
+item="word" /LANG:"english" /TEXT:"overturn" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:642;
+item="word" /LANG:"english" /TEXT:"praise" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1406;
+item="word" /LANG:"english" /TEXT:"readily" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:242;
+item="word" /LANG:"english" /TEXT:"reliance" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:611;
+item="word" /LANG:"english" /TEXT:"respect" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:844;
+item="word" /LANG:"english" /TEXT:"thereby" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:479;
+item="word" /LANG:"english" /TEXT:"treaty" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1114;
+item="word" /LANG:"english" /TEXT:"undertake" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:213;
+item="word" /LANG:"english" /TEXT:"unwilling" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:552;
+item="word" /LANG:"english" /TEXT:"yield" /DICT:"HCP_ENG-RUS_001" /CHAR:25 /HEAD:44;
+item="word" /LANG:"russian" /TEXT:"вер{и'}тельный" /DICT:"HCP_RUS-ENG_001" /CHAR:3 /HEAD:278;
+item="word" /LANG:"russian" /TEXT:"подъ{е'}хать" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:1842;
+item="word" /LANG:"russian" /TEXT:"уступ{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:20 /HEAD:865;
+
+[END]
