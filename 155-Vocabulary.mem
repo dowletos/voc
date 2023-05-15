@@ -39,6 +39,7 @@ item="word" /LANG:"english" /TEXT:"evolve" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD
 item="word" /LANG:"english" /TEXT:"facile" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:26;
 item="word" /LANG:"english" /TEXT:"fate" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:181;
 item="word" /LANG:"english" /TEXT:"firm" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:473;
+item="word" /LANG:"english" /TEXT:"fortune" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:929;
 item="word" /LANG:"english" /TEXT:"gesture" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:254;
 item="word" /LANG:"english" /TEXT:"haste" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:248;
 item="word" /LANG:"english" /TEXT:"hasten" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:249;
