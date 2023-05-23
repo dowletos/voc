@@ -1,0 +1,34 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"arrogant" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1220;
+item="word" /LANG:"english" /TEXT:"curse" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2422;
+item="word" /LANG:"english" /TEXT:"digression" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:739;
+item="word" /LANG:"english" /TEXT:"distinction" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1049;
+item="word" /LANG:"english" /TEXT:"encouragement" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:391;
+item="word" /LANG:"english" /TEXT:"fame" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:95;
+item="word" /LANG:"english" /TEXT:"first-hand" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:480;
+item="word" /LANG:"english" /TEXT:"informative" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:615;
+item="word" /LANG:"english" /TEXT:"intelligence" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:845;
+item="word" /LANG:"english" /TEXT:"intelligence service" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:847;
+item="word" /LANG:"english" /TEXT:"intelligence test" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:848;
+item="word" /LANG:"english" /TEXT:"intelligent" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:849;
+item="word" /LANG:"english" /TEXT:"journey" /DICT:"HCP_ENG-RUS_001" /CHAR:10 /HEAD:160;
+item="word" /LANG:"english" /TEXT:"junction" /DICT:"HCP_ENG-RUS_001" /CHAR:10 /HEAD:207;
+item="word" /LANG:"english" /TEXT:"keen" /DICT:"HCP_ENG-RUS_001" /CHAR:11 /HEAD:24;
+item="word" /LANG:"english" /TEXT:"later" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:160;
+item="word" /LANG:"english" /TEXT:"option" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:362;
+item="word" /LANG:"english" /TEXT:"potential" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1330;
+item="word" /LANG:"english" /TEXT:"proclaim" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1711;
+item="word" /LANG:"english" /TEXT:"reinstatement" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:579;
+item="word" /LANG:"english" /TEXT:"skip" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1365;
+item="word" /LANG:"english" /TEXT:"successor" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2818;
+item="word" /LANG:"english" /TEXT:"trade-off" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:975;
+item="word" /LANG:"english" /TEXT:"viable" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:202;
+item="word" /LANG:"english" /TEXT:"way" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:205;
+item="word" /LANG:"english" /TEXT:"whim" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:395;
+item="word" /LANG:"russian" /TEXT:"капр{и'}з" /DICT:"HCP_RUS-ENG_001" /CHAR:11 /HEAD:240;
+item="word" /LANG:"russian" /TEXT:"намн{о'}го" /DICT:"HCP_RUS-ENG_001" /CHAR:14 /HEAD:510;
+item="word" /LANG:"russian" /TEXT:"п{о'}зже" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:1917;
+item="word" /LANG:"russian" /TEXT:"пропуст{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:4283;
+
+[END]

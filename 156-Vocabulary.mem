@@ -73,7 +73,6 @@ item="word" /LANG:"russian" /TEXT:"вер{и'}тельный" /DICT:"HCP_RUS-ENG_001" /CHAR
 item="word" /LANG:"russian" /TEXT:"надел{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:14 /HEAD:220;
 item="word" /LANG:"russian" /TEXT:"подъ{е'}хать" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:1842;
 item="word" /LANG:"russian" /TEXT:"туп{о'}й" /DICT:"HCP_RUS-ENG_001" /CHAR:19 /HEAD:971;
-item="word" /LANG:"russian" /TEXT:"устр{о'}ить" /DICT:"HCP_RUS-ENG_001" /CHAR:20 /HEAD:862;
 item="word" /LANG:"russian" /TEXT:"уступ{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:20 /HEAD:865;
 
 [END]
