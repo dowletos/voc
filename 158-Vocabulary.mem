@@ -1,0 +1,47 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"abolish" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:52;
+item="word" /LANG:"english" /TEXT:"adapt" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:264;
+item="word" /LANG:"english" /TEXT:"adjust" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:309;
+item="word" /LANG:"english" /TEXT:"attain" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1411;
+item="word" /LANG:"english" /TEXT:"countryside" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2018;
+item="word" /LANG:"english" /TEXT:"cultivate" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2370;
+item="word" /LANG:"english" /TEXT:"daylight" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:115;
+item="word" /LANG:"english" /TEXT:"day-to-day" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:122;
+item="word" /LANG:"english" /TEXT:"descendant" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:543;
+item="word" /LANG:"english" /TEXT:"diffuse" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:723;
+item="word" /LANG:"english" /TEXT:"dismantle" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:957;
+item="word" /LANG:"english" /TEXT:"either" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:176;
+item="word" /LANG:"english" /TEXT:"eliminate" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:251;
+item="word" /LANG:"english" /TEXT:"elimination" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:252;
+item="word" /LANG:"english" /TEXT:"emerge" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:312;
+item="word" /LANG:"english" /TEXT:"endure" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:420;
+item="word" /LANG:"english" /TEXT:"fancy dress" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:118;
+item="word" /LANG:"english" /TEXT:"fancy-dress ball" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:119;
+item="word" /LANG:"english" /TEXT:"gorgeous" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:504;
+item="word" /LANG:"english" /TEXT:"hallmark" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:83;
+item="word" /LANG:"english" /TEXT:"halve" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:95;
+item="word" /LANG:"english" /TEXT:"imposing" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:240;
+item="word" /LANG:"english" /TEXT:"irregular" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1097;
+item="word" /LANG:"english" /TEXT:"leverage" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:420;
+item="word" /LANG:"english" /TEXT:"mill" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:755;
+item="word" /LANG:"english" /TEXT:"monotony" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:1096;
+item="word" /LANG:"english" /TEXT:"pillar" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:828;
+item="word" /LANG:"english" /TEXT:"preserve" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1541;
+item="word" /LANG:"english" /TEXT:"profit" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1749;
+item="word" /LANG:"english" /TEXT:"promulgate" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1814;
+item="word" /LANG:"english" /TEXT:"quit" /DICT:"HCP_ENG-RUS_001" /CHAR:17 /HEAD:106;
+item="word" /LANG:"english" /TEXT:"rally" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:110;
+item="word" /LANG:"english" /TEXT:"sacred" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:15;
+item="word" /LANG:"english" /TEXT:"smoke" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1578;
+item="word" /LANG:"english" /TEXT:"suggest" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2863;
+item="word" /LANG:"english" /TEXT:"sunrise" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2935;
+item="word" /LANG:"english" /TEXT:"sunset" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2938;
+item="word" /LANG:"english" /TEXT:"tanker" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:101;
+item="word" /LANG:"english" /TEXT:"tanned" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:102;
+item="word" /LANG:"english" /TEXT:"wonder" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:644;
+item="word" /LANG:"russian" /TEXT:"вли{я'}ние" /DICT:"HCP_RUS-ENG_001" /CHAR:3 /HEAD:679;
+item="word" /LANG:"russian" /TEXT:"выходн{о'}й" /DICT:"HCP_RUS-ENG_001" /CHAR:3 /HEAD:1934;
+item="word" /LANG:"russian" /TEXT:"пр{и'}знак" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:3418;
+
+[END]
