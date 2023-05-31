@@ -4,6 +4,7 @@ item="word" /LANG:"english" /TEXT:"abolish" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEA
 item="word" /LANG:"english" /TEXT:"adapt" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:264;
 item="word" /LANG:"english" /TEXT:"adjust" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:309;
 item="word" /LANG:"english" /TEXT:"attain" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1411;
+item="word" /LANG:"english" /TEXT:"attainments" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1412;
 item="word" /LANG:"english" /TEXT:"countryside" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2018;
 item="word" /LANG:"english" /TEXT:"cultivate" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2370;
 item="word" /LANG:"english" /TEXT:"daylight" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:115;
