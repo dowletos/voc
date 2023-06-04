@@ -1,0 +1,10 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"became" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:384;
+item="word" /LANG:"english" /TEXT:"become" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:388;
+item="word" /LANG:"english" /TEXT:"began" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:435;
+item="word" /LANG:"english" /TEXT:"begin" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:437;
+item="word" /LANG:"english" /TEXT:"bind" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:624;
+item="word" /LANG:"english" /TEXT:"bound" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1046;
+
+[END]
