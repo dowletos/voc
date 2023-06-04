@@ -43,6 +43,7 @@ item="word" /LANG:"english" /TEXT:"profit" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEA
 item="word" /LANG:"english" /TEXT:"promulgate" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1814;
 item="word" /LANG:"english" /TEXT:"quit" /DICT:"HCP_ENG-RUS_001" /CHAR:17 /HEAD:106;
 item="word" /LANG:"english" /TEXT:"rally" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:110;
+item="word" /LANG:"english" /TEXT:"resist" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:829;
 item="word" /LANG:"english" /TEXT:"restrain" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:880;
 item="word" /LANG:"english" /TEXT:"sacred" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:15;
 item="word" /LANG:"english" /TEXT:"shell" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:920;
