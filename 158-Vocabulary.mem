@@ -8,6 +8,7 @@ item="word" /LANG:"english" /TEXT:"attainments" /DICT:"HCP_ENG-RUS_001" /CHAR:1 
 item="word" /LANG:"english" /TEXT:"bottleneck" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1033;
 item="word" /LANG:"english" /TEXT:"bundle" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1420;
 item="word" /LANG:"english" /TEXT:"check" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:657;
+item="word" /LANG:"english" /TEXT:"conjunction" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1580;
 item="word" /LANG:"english" /TEXT:"conventional" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1787;
 item="word" /LANG:"english" /TEXT:"countryside" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2018;
 item="word" /LANG:"english" /TEXT:"cultivate" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2370;
