@@ -1,0 +1,30 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"advanced" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:365;
+item="word" /LANG:"english" /TEXT:"bit" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:667;
+item="word" /LANG:"english" /TEXT:"booklet" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:975;
+item="word" /LANG:"english" /TEXT:"come" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1250;
+item="word" /LANG:"english" /TEXT:"complete" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1395;
+item="word" /LANG:"english" /TEXT:"deal" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:160;
+item="word" /LANG:"english" /TEXT:"decide" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:231;
+item="word" /LANG:"english" /TEXT:"definitely" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:331;
+item="word" /LANG:"english" /TEXT:"download" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1291;
+item="word" /LANG:"english" /TEXT:"examination" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:789;
+item="word" /LANG:"english" /TEXT:"give" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:324;
+item="word" /LANG:"english" /TEXT:"offer" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:144;
+item="word" /LANG:"english" /TEXT:"often" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:189;
+item="word" /LANG:"english" /TEXT:"real" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:260;
+item="word" /LANG:"english" /TEXT:"recording" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:381;
+item="word" /LANG:"english" /TEXT:"remove" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:669;
+item="word" /LANG:"english" /TEXT:"schedule" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:306;
+item="word" /LANG:"english" /TEXT:"sheet" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:912;
+item="word" /LANG:"english" /TEXT:"space" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1898;
+item="word" /LANG:"english" /TEXT:"steep" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2393;
+item="word" /LANG:"english" /TEXT:"stop" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2529;
+item="word" /LANG:"english" /TEXT:"straight" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2565;
+item="word" /LANG:"english" /TEXT:"transfer" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1039;
+item="word" /LANG:"english" /TEXT:"tuition" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1286;
+item="word" /LANG:"russian" /TEXT:"заход{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:8 /HEAD:1215;
+item="word" /LANG:"russian" /TEXT:"ср{а'}зу" /DICT:"HCP_RUS-ENG_001" /CHAR:18 /HEAD:2259;
+
+[END]
