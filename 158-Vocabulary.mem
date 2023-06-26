@@ -5,6 +5,7 @@ item="word" /LANG:"english" /TEXT:"adapt" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:
 item="word" /LANG:"english" /TEXT:"adjust" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:309;
 item="word" /LANG:"english" /TEXT:"attain" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1411;
 item="word" /LANG:"english" /TEXT:"attainments" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1412;
+item="word" /LANG:"english" /TEXT:"awkward" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1555;
 item="word" /LANG:"english" /TEXT:"bottleneck" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1033;
 item="word" /LANG:"english" /TEXT:"bundle" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1420;
 item="word" /LANG:"english" /TEXT:"check" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:657;
