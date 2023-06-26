@@ -1,0 +1,38 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"across" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:233;
+item="word" /LANG:"english" /TEXT:"artist" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1246;
+item="word" /LANG:"english" /TEXT:"available" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1514;
+item="word" /LANG:"english" /TEXT:"block" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:785;
+item="word" /LANG:"english" /TEXT:"book store" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:981;
+item="word" /LANG:"english" /TEXT:"contain" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1692;
+item="word" /LANG:"english" /TEXT:"corner" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1881;
+item="word" /LANG:"english" /TEXT:"cross" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2250;
+item="word" /LANG:"english" /TEXT:"delicious" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:381;
+item="word" /LANG:"english" /TEXT:"directly" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:802;
+item="word" /LANG:"english" /TEXT:"down" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1280;
+item="word" /LANG:"english" /TEXT:"enjoy" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:459;
+item="word" /LANG:"english" /TEXT:"guide" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:791;
+item="word" /LANG:"english" /TEXT:"harbour" /TEXT:"harbor" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:175;
+item="word" /LANG:"english" /TEXT:"local" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:700;
+item="word" /LANG:"english" /TEXT:"lovely" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:845;
+item="word" /LANG:"english" /TEXT:"mark" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:258;
+item="word" /LANG:"english" /TEXT:"north" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:451;
+item="word" /LANG:"english" /TEXT:"notice" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:496;
+item="word" /LANG:"english" /TEXT:"overview" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:643;
+item="word" /LANG:"english" /TEXT:"pear" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:420;
+item="word" /LANG:"english" /TEXT:"postcard" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1287;
+item="word" /LANG:"english" /TEXT:"range" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:140;
+item="word" /LANG:"english" /TEXT:"rare" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:163;
+item="word" /LANG:"english" /TEXT:"several" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:792;
+item="word" /LANG:"english" /TEXT:"shopping" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1015;
+item="word" /LANG:"english" /TEXT:"south" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1872;
+item="word" /LANG:"english" /TEXT:"tour" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:905;
+item="word" /LANG:"english" /TEXT:"T-shirt" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1265;
+item="word" /LANG:"english" /TEXT:"up" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:562;
+item="word" /LANG:"english" /TEXT:"variety" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:75;
+item="word" /LANG:"english" /TEXT:"worth" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:731;
+item="word" /LANG:"russian" /TEXT:"вниз" /DICT:"HCP_RUS-ENG_001" /CHAR:3 /HEAD:725;
+item="word" /LANG:"russian" /TEXT:"отм{е'}тка" /DICT:"HCP_RUS-ENG_001" /CHAR:15 /HEAD:1725;
+
+[END]
