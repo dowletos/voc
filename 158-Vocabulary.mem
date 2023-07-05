@@ -3,7 +3,6 @@
 item="word" /LANG:"english" /TEXT:"abolish" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:52;
 item="word" /LANG:"english" /TEXT:"adapt" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:264;
 item="word" /LANG:"english" /TEXT:"adjust" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:309;
-item="word" /LANG:"english" /TEXT:"adolescence" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:336;
 item="word" /LANG:"english" /TEXT:"adolescent" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:337;
 item="word" /LANG:"english" /TEXT:"attain" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1411;
 item="word" /LANG:"english" /TEXT:"attainments" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1412;
@@ -11,6 +10,7 @@ item="word" /LANG:"english" /TEXT:"awkward" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEA
 item="word" /LANG:"english" /TEXT:"bottleneck" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1033;
 item="word" /LANG:"english" /TEXT:"bundle" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1420;
 item="word" /LANG:"english" /TEXT:"check" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:657;
+item="word" /LANG:"english" /TEXT:"choosy" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:785;
 item="word" /LANG:"english" /TEXT:"conjunction" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1580;
 item="word" /LANG:"english" /TEXT:"conventional" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1787;
 item="word" /LANG:"english" /TEXT:"countryside" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2018;
