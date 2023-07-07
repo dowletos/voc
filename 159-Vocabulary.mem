@@ -31,6 +31,7 @@ item="word" /LANG:"english" /TEXT:"redundancy" /DICT:"HCP_ENG-RUS_001" /CHAR:18 
 item="word" /LANG:"english" /TEXT:"redundant" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:456;
 item="word" /LANG:"english" /TEXT:"resilient" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:827;
 item="word" /LANG:"english" /TEXT:"sake" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:70;
+item="word" /LANG:"english" /TEXT:"scarcely" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:276;
 item="word" /LANG:"english" /TEXT:"self-evident" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:619;
 item="word" /LANG:"english" /TEXT:"spare" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1919;
 item="word" /LANG:"english" /TEXT:"spinal" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2035;
