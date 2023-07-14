@@ -2,10 +2,13 @@
 
 item="word" /LANG:"english" /TEXT:"admit" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:330;
 item="word" /LANG:"english" /TEXT:"alert" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:609;
+item="word" /LANG:"english" /TEXT:"annum" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:895;
 item="word" /LANG:"english" /TEXT:"backbone" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:23;
 item="word" /LANG:"english" /TEXT:"cap" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:176;
 item="word" /LANG:"english" /TEXT:"clad" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:907;
 item="word" /LANG:"english" /TEXT:"click" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:992;
+item="word" /LANG:"english" /TEXT:"clue" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1064;
+item="word" /LANG:"english" /TEXT:"clued-up" /TEXT:"clued in" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1065;
 item="word" /LANG:"english" /TEXT:"consistent" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1633;
 item="word" /LANG:"english" /TEXT:"discern" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:852;
 item="word" /LANG:"english" /TEXT:"distinguish" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1052;
@@ -14,8 +17,10 @@ item="word" /LANG:"english" /TEXT:"elsewhere" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /H
 item="word" /LANG:"english" /TEXT:"embrace" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:305;
 item="word" /LANG:"english" /TEXT:"encourage" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:390;
 item="word" /LANG:"english" /TEXT:"encouragement" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:391;
+item="word" /LANG:"english" /TEXT:"ensure" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:488;
 item="word" /LANG:"english" /TEXT:"feasibility study" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:222;
 item="word" /LANG:"english" /TEXT:"feasible" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:223;
+item="word" /LANG:"english" /TEXT:"fly" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:707;
 item="word" /LANG:"english" /TEXT:"hedgehog" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:413;
 item="word" /LANG:"english" /TEXT:"insult" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:820;
 item="word" /LANG:"english" /TEXT:"jack plug" /DICT:"HCP_ENG-RUS_001" /CHAR:10 /HEAD:13;
@@ -47,5 +52,6 @@ item="word" /LANG:"english" /TEXT:"watchdog" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /H
 item="word" /LANG:"russian" /TEXT:"в{а'}жный" /DICT:"HCP_RUS-ENG_001" /CHAR:3 /HEAD:14;
 item="word" /LANG:"russian" /TEXT:"защёлка" /DICT:"HCP_RUS-ENG_001" /CHAR:8 /HEAD:1274;
 item="word" /LANG:"russian" /TEXT:"колпач{о'}к" /DICT:"HCP_RUS-ENG_001" /CHAR:11 /HEAD:950;
+item="word" /LANG:"russian" /TEXT:"пролет{е'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:4144;
 
 [END]

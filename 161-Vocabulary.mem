@@ -1,0 +1,18 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"dagger" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:15;
+item="word" /LANG:"english" /TEXT:"outline" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:495;
+item="word" /LANG:"english" /TEXT:"pocketknife" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1084;
+item="word" /LANG:"english" /TEXT:"polygamy" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1183;
+item="word" /LANG:"english" /TEXT:"preferable" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1473;
+item="word" /LANG:"english" /TEXT:"soak" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1670;
+item="word" /LANG:"english" /TEXT:"so-and-so" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1672;
+item="word" /LANG:"english" /TEXT:"soapbox" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1674;
+item="word" /LANG:"english" /TEXT:"sorrow" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1837;
+item="word" /LANG:"english" /TEXT:"sorrowful" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1838;
+item="word" /LANG:"english" /TEXT:"starvation" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2325;
+item="word" /LANG:"english" /TEXT:"vestige" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:182;
+item="word" /LANG:"russian" /TEXT:"замоч{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:8 /HEAD:690;
+item="word" /LANG:"russian" /TEXT:"кинж{а'}л" /DICT:"HCP_RUS-ENG_001" /CHAR:11 /HEAD:527;
+
+[END]

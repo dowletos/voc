@@ -11,6 +11,7 @@ item="word" /LANG:"english" /TEXT:"bottleneck" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /
 item="word" /LANG:"english" /TEXT:"bundle" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1420;
 item="word" /LANG:"english" /TEXT:"check" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:657;
 item="word" /LANG:"english" /TEXT:"choosy" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:785;
+item="word" /LANG:"english" /TEXT:"commoner" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1318;
 item="word" /LANG:"english" /TEXT:"conjunction" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1580;
 item="word" /LANG:"english" /TEXT:"conventional" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1787;
 item="word" /LANG:"english" /TEXT:"countryside" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2018;
