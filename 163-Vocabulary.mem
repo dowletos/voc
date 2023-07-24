@@ -1,0 +1,46 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"assume" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1342;
+item="word" /LANG:"english" /TEXT:"blindly" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:765;
+item="word" /LANG:"english" /TEXT:"brick" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1204;
+item="word" /LANG:"english" /TEXT:"capability" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:177;
+item="word" /LANG:"english" /TEXT:"coal" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1083;
+item="word" /LANG:"english" /TEXT:"counterpart" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2005;
+item="word" /LANG:"english" /TEXT:"dislike" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:952;
+item="word" /LANG:"english" /TEXT:"fearful" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:217;
+item="word" /LANG:"english" /TEXT:"feature" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:228;
+item="word" /LANG:"english" /TEXT:"following" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:753;
+item="word" /LANG:"english" /TEXT:"gradually" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:545;
+item="word" /LANG:"english" /TEXT:"ignorant" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:89;
+item="word" /LANG:"english" /TEXT:"increasingly" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:393;
+item="word" /LANG:"english" /TEXT:"infirmary" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:581;
+item="word" /LANG:"english" /TEXT:"involve" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:1043;
+item="word" /LANG:"english" /TEXT:"lump" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:907;
+item="word" /LANG:"english" /TEXT:"major" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:104;
+item="word" /LANG:"english" /TEXT:"mention" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:567;
+item="word" /LANG:"english" /TEXT:"mistreat" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:928;
+item="word" /LANG:"english" /TEXT:"moth" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:1182;
+item="word" /LANG:"english" /TEXT:"origin" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:416;
+item="word" /LANG:"english" /TEXT:"outspoken" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:530;
+item="word" /LANG:"english" /TEXT:"passionate" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:297;
+item="word" /LANG:"english" /TEXT:"privileged" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1674;
+item="word" /LANG:"english" /TEXT:"pupil" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:2056;
+item="word" /LANG:"english" /TEXT:"quit" /DICT:"HCP_ENG-RUS_001" /CHAR:17 /HEAD:106;
+item="word" /LANG:"english" /TEXT:"red" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:412;
+item="word" /LANG:"english" /TEXT:"reel" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:462;
+item="word" /LANG:"english" /TEXT:"revenue" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:961;
+item="word" /LANG:"english" /TEXT:"similar" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:1219;
+item="word" /LANG:"english" /TEXT:"surroundings" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3051;
+item="word" /LANG:"english" /TEXT:"tackle" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:26;
+item="word" /LANG:"english" /TEXT:"term" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:373;
+item="word" /LANG:"english" /TEXT:"timber" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:670;
+item="word" /LANG:"english" /TEXT:"translucent" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1060;
+item="word" /LANG:"english" /TEXT:"unhappy" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:314;
+item="word" /LANG:"english" /TEXT:"workforce" /DICT:"HCP_ENG-RUS_001" /CHAR:23 /HEAD:682;
+item="word" /LANG:"russian" /TEXT:"гл{а'}вный" /DICT:"HCP_RUS-ENG_001" /CHAR:4 /HEAD:266;
+item="word" /LANG:"russian" /TEXT:"зад{о'}лженность" /DICT:"HCP_RUS-ENG_001" /CHAR:8 /HEAD:318;
+item="word" /LANG:"russian" /TEXT:"ос{о'}бенность" /DICT:"HCP_RUS-ENG_001" /CHAR:15 /HEAD:1361;
+item="word" /LANG:"russian" /TEXT:"прин{я'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:3571;
+item="word" /LANG:"russian" /TEXT:"происхожд{е'}ние" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:4085;
+
+[END]
