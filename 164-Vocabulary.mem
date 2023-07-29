@@ -1,0 +1,21 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"assumed name" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1343;
+item="word" /LANG:"english" /TEXT:"contend" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1705;
+item="word" /LANG:"english" /TEXT:"contest" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1713;
+item="word" /LANG:"english" /TEXT:"courteous" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2035;
+item="word" /LANG:"english" /TEXT:"credible" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2156;
+item="word" /LANG:"english" /TEXT:"effective" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:132;
+item="word" /LANG:"english" /TEXT:"fancy" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:117;
+item="word" /LANG:"english" /TEXT:"gentle" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:220;
+item="word" /LANG:"english" /TEXT:"hostess" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:842;
+item="word" /LANG:"english" /TEXT:"indiscriminate" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:472;
+item="word" /LANG:"english" /TEXT:"legitimate" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:348;
+item="word" /LANG:"english" /TEXT:"liaison" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:430;
+item="word" /LANG:"english" /TEXT:"mild" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:727;
+item="word" /LANG:"english" /TEXT:"needlework" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:178;
+item="word" /LANG:"english" /TEXT:"obesity" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:22;
+item="word" /LANG:"english" /TEXT:"violation" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:282;
+item="word" /LANG:"english" /TEXT:"violence" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:283;
+
+[END]
