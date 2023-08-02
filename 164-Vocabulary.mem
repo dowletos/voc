@@ -1,21 +1,34 @@
 [MEMOPAD]
 
+item="word" /LANG:"english" /TEXT:"abandon" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:13;
 item="word" /LANG:"english" /TEXT:"assumed name" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1343;
+item="word" /LANG:"english" /TEXT:"astonish" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1356;
+item="word" /LANG:"english" /TEXT:"astonishing" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1357;
 item="word" /LANG:"english" /TEXT:"contend" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1705;
 item="word" /LANG:"english" /TEXT:"contest" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1713;
 item="word" /LANG:"english" /TEXT:"courteous" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2035;
 item="word" /LANG:"english" /TEXT:"credible" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2156;
+item="word" /LANG:"english" /TEXT:"custom" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2441;
+item="word" /LANG:"english" /TEXT:"dismal" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:956;
 item="word" /LANG:"english" /TEXT:"effective" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:132;
+item="word" /LANG:"english" /TEXT:"emptiness" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:361;
 item="word" /LANG:"english" /TEXT:"fancy" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:117;
+item="word" /LANG:"english" /TEXT:"fetch" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:305;
+item="word" /LANG:"english" /TEXT:"forbid" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:806;
+item="word" /LANG:"english" /TEXT:"forsake" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:908;
 item="word" /LANG:"english" /TEXT:"gentle" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:220;
+item="word" /LANG:"english" /TEXT:"greet" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:663;
 item="word" /LANG:"english" /TEXT:"hostess" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:842;
 item="word" /LANG:"english" /TEXT:"indiscriminate" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:472;
 item="word" /LANG:"english" /TEXT:"legitimate" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:348;
 item="word" /LANG:"english" /TEXT:"liaison" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:430;
 item="word" /LANG:"english" /TEXT:"mild" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:727;
+item="word" /LANG:"english" /TEXT:"mystify" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:1429;
 item="word" /LANG:"english" /TEXT:"needlework" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:178;
 item="word" /LANG:"english" /TEXT:"obesity" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:22;
+item="word" /LANG:"english" /TEXT:"polite" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1153;
 item="word" /LANG:"english" /TEXT:"violation" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:282;
 item="word" /LANG:"english" /TEXT:"violence" /DICT:"HCP_ENG-RUS_001" /CHAR:22 /HEAD:283;
+item="word" /LANG:"russian" /TEXT:"принос{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:3559;
 
 [END]

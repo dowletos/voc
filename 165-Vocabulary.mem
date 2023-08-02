@@ -1,0 +1,38 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"acquaintance" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:215;
+item="word" /LANG:"english" /TEXT:"anger" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:848;
+item="word" /LANG:"english" /TEXT:"astonish" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1356;
+item="word" /LANG:"english" /TEXT:"astounded" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1361;
+item="word" /LANG:"english" /TEXT:"astute" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1373;
+item="word" /LANG:"english" /TEXT:"bend" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:496;
+item="word" /LANG:"english" /TEXT:"betray" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:543;
+item="word" /LANG:"english" /TEXT:"concession" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1474;
+item="word" /LANG:"english" /TEXT:"countenance" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1991;
+item="word" /LANG:"english" /TEXT:"covert" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2059;
+item="word" /LANG:"english" /TEXT:"embarrassed" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:287;
+item="word" /LANG:"english" /TEXT:"esteem" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:672;
+item="word" /LANG:"english" /TEXT:"fetch" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:305;
+item="word" /LANG:"english" /TEXT:"hateful" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:260;
+item="word" /LANG:"english" /TEXT:"hostess" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:842;
+item="word" /LANG:"english" /TEXT:"incur" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:407;
+item="word" /LANG:"english" /TEXT:"indemnity" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:428;
+item="word" /LANG:"english" /TEXT:"least" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:286;
+item="word" /LANG:"english" /TEXT:"mass" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:331;
+item="word" /LANG:"english" /TEXT:"mingle" /DICT:"HCP_ENG-RUS_001" /CHAR:13 /HEAD:797;
+item="word" /LANG:"english" /TEXT:"obscene" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:45;
+item="word" /LANG:"english" /TEXT:"pleased" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1006;
+item="word" /LANG:"english" /TEXT:"prejudice" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1486;
+item="word" /LANG:"english" /TEXT:"preside" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1543;
+item="word" /LANG:"english" /TEXT:"presumably" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1567;
+item="word" /LANG:"english" /TEXT:"prevail" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1582;
+item="word" /LANG:"english" /TEXT:"proximity" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1924;
+item="word" /LANG:"english" /TEXT:"reconcile" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:365;
+item="word" /LANG:"english" /TEXT:"reconciliation" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:366;
+item="word" /LANG:"english" /TEXT:"tall" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:78;
+item="word" /LANG:"english" /TEXT:"tribute" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1152;
+item="word" /LANG:"russian" /TEXT:"мал{е'}йший" /DICT:"HCP_RUS-ENG_001" /CHAR:13 /HEAD:86;
+item="word" /LANG:"russian" /TEXT:"навл{е'}чь" /DICT:"HCP_RUS-ENG_001" /CHAR:14 /HEAD:97;
+item="word" /LANG:"russian" /TEXT:"принос{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:16 /HEAD:3559;
+
+[END]
