@@ -1,0 +1,6 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"pullover" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:2017;
+item="word" /LANG:"russian" /TEXT:"останов{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:15 /HEAD:1385;
+
+[END]

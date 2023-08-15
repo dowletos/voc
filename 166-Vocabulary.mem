@@ -1,0 +1,12 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"competence" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1381;
+item="word" /LANG:"english" /TEXT:"cover" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2051;
+item="word" /LANG:"english" /TEXT:"likely" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:528;
+item="word" /LANG:"english" /TEXT:"loose" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:792;
+item="word" /LANG:"english" /TEXT:"redundant" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:456;
+item="word" /LANG:"english" /TEXT:"retention" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:911;
+item="word" /LANG:"english" /TEXT:"rethink" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:913;
+item="word" /LANG:"english" /TEXT:"upon" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:578;
+
+[END]
