@@ -1,6 +1,48 @@
 [MEMOPAD]
 
+item="word" /LANG:"english" /TEXT:"affinity" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:427;
+item="word" /LANG:"english" /TEXT:"cede" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:458;
+item="word" /LANG:"english" /TEXT:"concurrently" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1492;
+item="word" /LANG:"english" /TEXT:"contribution" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:1755;
+item="word" /LANG:"english" /TEXT:"detach" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:596;
+item="word" /LANG:"english" /TEXT:"detachable" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:597;
+item="word" /LANG:"english" /TEXT:"detachment" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:599;
+item="word" /LANG:"english" /TEXT:"discard" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:850;
+item="word" /LANG:"english" /TEXT:"dummy" /DICT:"HCP_ENG-RUS_001" /CHAR:4 /HEAD:1509;
+item="word" /LANG:"english" /TEXT:"enclose" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:384;
+item="word" /LANG:"english" /TEXT:"enclosure" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:385;
+item="word" /LANG:"english" /TEXT:"flip side" /DICT:"HCP_ENG-RUS_001" /CHAR:6 /HEAD:634;
+item="word" /LANG:"english" /TEXT:"humiliate" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:959;
+item="word" /LANG:"english" /TEXT:"humiliating" /DICT:"HCP_ENG-RUS_001" /CHAR:8 /HEAD:960;
+item="word" /LANG:"english" /TEXT:"indemnity" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:428;
+item="word" /LANG:"english" /TEXT:"intimation" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:957;
+item="word" /LANG:"english" /TEXT:"legitimacy" /DICT:"HCP_ENG-RUS_001" /CHAR:12 /HEAD:347;
+item="word" /LANG:"english" /TEXT:"nowadays" /DICT:"HCP_ENG-RUS_001" /CHAR:14 /HEAD:524;
+item="word" /LANG:"english" /TEXT:"oppress" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:346;
+item="word" /LANG:"english" /TEXT:"outbreak" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:469;
+item="word" /LANG:"english" /TEXT:"overlap" /DICT:"HCP_ENG-RUS_001" /CHAR:15 /HEAD:594;
+item="word" /LANG:"english" /TEXT:"particular" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:270;
+item="word" /LANG:"english" /TEXT:"perish" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:570;
+item="word" /LANG:"english" /TEXT:"pose" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1262;
+item="word" /LANG:"english" /TEXT:"praise" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1406;
+item="word" /LANG:"english" /TEXT:"prevail" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1582;
+item="word" /LANG:"english" /TEXT:"prevailing" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1583;
+item="word" /LANG:"english" /TEXT:"proactive" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1687;
+item="word" /LANG:"english" /TEXT:"propagate" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1828;
+item="word" /LANG:"english" /TEXT:"propagation" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1829;
 item="word" /LANG:"english" /TEXT:"pullover" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:2017;
+item="word" /LANG:"english" /TEXT:"reckon" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:347;
+item="word" /LANG:"english" /TEXT:"reigning" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:570;
+item="word" /LANG:"english" /TEXT:"reportedly" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:738;
+item="word" /LANG:"english" /TEXT:"riot" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1107;
+item="word" /LANG:"english" /TEXT:"rioter" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:1108;
+item="word" /LANG:"english" /TEXT:"scarcity" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:277;
+item="word" /LANG:"english" /TEXT:"shell" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:920;
+item="word" /LANG:"english" /TEXT:"suffrage" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:2852;
+item="word" /LANG:"english" /TEXT:"tributary" /DICT:"HCP_ENG-RUS_001" /CHAR:20 /HEAD:1151;
+item="word" /LANG:"russian" /TEXT:"нач{а'}ло" /DICT:"HCP_RUS-ENG_001" /CHAR:14 /HEAD:925;
+item="word" /LANG:"russian" /TEXT:"обстрел{я'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:15 /HEAD:456;
 item="word" /LANG:"russian" /TEXT:"останов{и'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:15 /HEAD:1385;
+item="word" /LANG:"russian" /TEXT:"созд{а'}ть" /DICT:"HCP_RUS-ENG_001" /CHAR:18 /HEAD:1703;
 
 [END]
