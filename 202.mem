@@ -1,0 +1,27 @@
+[MEMOPAD]
+
+item="word" /LANG:"english" /TEXT:"appeal" /DICT:"HCP_ENG-RUS_001" /CHAR:1 /HEAD:1028;
+item="word" /LANG:"english" /TEXT:"blatantly" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:735;
+item="word" /LANG:"english" /TEXT:"boast" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:884;
+item="word" /LANG:"english" /TEXT:"boastful" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:885;
+item="word" /LANG:"english" /TEXT:"boastfulness" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:886;
+item="word" /LANG:"english" /TEXT:"broadcasting" /DICT:"HCP_ENG-RUS_001" /CHAR:2 /HEAD:1253;
+item="word" /LANG:"english" /TEXT:"cater" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:397;
+item="word" /LANG:"english" /TEXT:"catering" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:399;
+item="word" /LANG:"english" /TEXT:"censorship" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:489;
+item="word" /LANG:"english" /TEXT:"circulation" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:864;
+item="word" /LANG:"english" /TEXT:"curtail" /DICT:"HCP_ENG-RUS_001" /CHAR:3 /HEAD:2426;
+item="word" /LANG:"english" /TEXT:"expound" /DICT:"HCP_ENG-RUS_001" /CHAR:5 /HEAD:953;
+item="word" /LANG:"english" /TEXT:"guise" /DICT:"HCP_ENG-RUS_001" /CHAR:7 /HEAD:806;
+item="word" /LANG:"english" /TEXT:"impact" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:180;
+item="word" /LANG:"english" /TEXT:"impetus" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:217;
+item="word" /LANG:"english" /TEXT:"indoctrination" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:485;
+item="word" /LANG:"english" /TEXT:"inspect" /DICT:"HCP_ENG-RUS_001" /CHAR:9 /HEAD:773;
+item="word" /LANG:"english" /TEXT:"prior" /DICT:"HCP_ENG-RUS_001" /CHAR:16 /HEAD:1650;
+item="word" /LANG:"english" /TEXT:"rapidly" /DICT:"HCP_ENG-RUS_001" /CHAR:18 /HEAD:155;
+item="word" /LANG:"english" /TEXT:"script" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:418;
+item="word" /LANG:"english" /TEXT:"sentiment" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:720;
+item="word" /LANG:"english" /TEXT:"surveillance" /DICT:"HCP_ENG-RUS_001" /CHAR:19 /HEAD:3053;
+item="word" /LANG:"english" /TEXT:"uniformity" /DICT:"HCP_ENG-RUS_001" /CHAR:21 /HEAD:329;
+
+[END]
